@@ -88,6 +88,6 @@ Be careful: if the dial were pointing at 50, a single rotation like R1000 would 
 
 Using password method `0x434C49434B`, what is the password to open the door?
 
-Your puzzle answer was 6106.
+Your puzzle answer was `6106`.
 
 Both parts of this puzzle are complete! They provide two gold stars: **
