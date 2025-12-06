@@ -12,7 +12,7 @@ def get_ranges():
             ranges.append((start, end))
             continue
         prev_start, prev_end = ranges.pop()
-        curr_start, curr_end = (int(start), int(end))
+        curr_start, curr_end = (start, end)
         if prev_start <= curr_start <= curr_end <= prev_end:
             ranges.append((prev_start, prev_end))
         elif prev_start <= curr_start <= prev_end:
