@@ -1,6 +1,6 @@
 with open('input5.txt', 'r') as f:
     lines = f.read().splitlines()
-    fresh = sorted([(int(x), int(y)) for x,y in [l.split('-') for l in lines if '-' in l]])
+    fresh = sorted([(int(x), int(y)) for x, y in [l.split('-') for l in lines if '-' in l]])
     avail = sorted([int(l) for l in lines if l and '-' not in l])
 
 
@@ -21,6 +21,7 @@ def get_ranges():
             ranges.extend([(prev_start, prev_end), (curr_start, curr_end)])
     return ranges
 
+
 def star1():
     ranges, ans = get_ranges(), 0
     rng_st, rng_end = ranges.pop(0)
@@ -38,13 +39,15 @@ def star1():
 
     return ans
 
+
 def star2():
     ranges = get_ranges()
     ans = len(ranges)
     while ranges:
         s, e = ranges.pop(0)
-        ans += e-s
+        ans += e - s
     return ans
+
 
 if __name__ == "__main__":
     ans1 = star1()
