@@ -1,156 +1,80 @@
-### --- Day 9: Movie Theater ---
-You slide down the firepole in the corner of the playground and land in the North Pole base movie theater!
+### --- Day 11: Reactor ---
+You hear some loud beeping coming from a hatch in the floor of the factory, so you decide to check it out. Inside, you find several large electrical conduits and a ladder.
 
-The movie theater has a big tile floor with an interesting pattern. Elves here are redecorating the theater by switching out some of the square tiles in the big grid they form. Some of the tiles are red; the Elves would like to find the largest rectangle that uses red tiles for two of its opposite corners. They even have a list of where the red tiles are located in the grid (your puzzle input).
+Climbing down the ladder, you discover the source of the beeping: a large, toroidal reactor which powers the factory above. Some Elves here are hurriedly running between the reactor and a nearby server rack, apparently trying to fix something.
+
+One of the Elves notices you and rushes over. "It's a good thing you're here! We just installed a new server rack, but we aren't having any luck getting the reactor to communicate with it!" You glance around the room and see a tangle of cables and devices running from the server rack to the reactor. She rushes off, returning a moment later with a list of the devices and their outputs (your puzzle input).
 
 For example:
 ```
-7,1
-11,1
-11,7
-9,7
-9,5
-2,5
-2,3
-7,3
+aaa: you hhh
+you: bbb ccc
+bbb: ddd eee
+ccc: ddd eee fff
+ddd: `ggg` 
+eee: out
+fff: out
+`ggg` : out
+hhh: ccc fff iii
+iii: out
 ```
-Showing red tiles as `#` and other tiles as `.`, the above arrangement of red tiles would look like this:
-```
-..............
-.......#...#..
-..............
-..#....#......
-..............
-..#......#....
-..............
-.........#.#..
-..............
-```
-You can choose any two red tiles as the opposite corners of your rectangle; your goal is to find the largest rectangle possible.
+Each line gives the name of a device followed by a list of the devices to which its outputs are attached. So, `bbb`: ddd eee means that device `bbb` has two outputs, one leading to device ddd and the other leading to device eee.
 
-For example, you could make a rectangle (shown as O) with an area of 24 between `2,5` and `9,7`:
-```
-..............
-.......#...#..
-..............
-..#....#......
-..............
-..OOOOOOOO....
-..OOOOOOOO....
-..OOOOOOOO.#..
-..............
-```
-Or, you could make a rectangle with area 35 between `7,1` and `11,7`:
-```
-..............
-.......OOOOO..
-.......OOOOO..
-..#....OOOOO..
-.......OOOOO..
-..#....OOOOO..
-.......OOOOO..
-.......OOOOO..
-..............
-```
-You could even make a thin rectangle with an area of only 6 between `7,3` and `2,3`:
-```
-..............
-.......#...#..
-..............
-..OOOOOO......
-..............
-..#......#....
-..............
-.........#.#..
-..............
-```
-Ultimately, the largest rectangle you can make in this example has area 50. One way to do this is between `2,5` and `11,1`:
-```
-..............
-..OOOOOOOOOO..
-..OOOOOOOOOO..
-..OOOOOOOOOO..
-..OOOOOOOOOO..
-..OOOOOOOOOO..
-..............
-.........#.#..
-..............
-```
-Using two red tiles as opposite corners, what is the largest area of any rectangle you can make?
+The Elves are pretty sure that the issue isn't due to any specific device, but rather that the issue is triggered by data following some specific path through the devices. Data only ever flows from a device through its outputs; it can't flow backwards.
 
-Your puzzle answer was `4786902990`.
+After dividing up the work, the Elves would like you to focus on the devices starting with the one next to you (an Elf hastily attaches a label which just says you) and ending with the main output to the reactor (which is the device with the label `out`).
+
+To help the Elves figure out which path is causing the issue, they need you to find every path from `you` to `out`.
+
+In this example, these are all of the paths from `you` to `out`:
+
+Data could take the connection from `you` to `bbb`, then from `bbb` to `ddd`, then from `ddd` to ``ggg` `, then from ``ggg` ` to `out`.
+Data could take the connection to `bbb`, then to `eee` , then to `out`.
+Data could go to `ccc`, then ddd, then `ggg` , then `out`.
+Data could go to `ccc`, then `eee` , then `out`.
+Data could go to `ccc`, then `fff` , then `out`.
+In total, there are 5 different paths leading from `you` to `out`.
+
+How many different paths lead from `you` to `out`?
+
+Your puzzle answer was `699`.
 
 ### --- Part Two ---
-The Elves just remembered: they can only switch out tiles that are red or green. So, your rectangle can only include red or green tiles.
+Thanks in part to your analysis, the Elves have figured out a little bit about the issue. They now know that the problematic data path passes through both dac (a digital-to-analog converter) and fft (a device which performs a fast Fourier transform).
 
-In your list, every red tile is connected to the red tile before and after it by a straight line of green tiles. The list wraps, so the first red tile is also connected to the last red tile. Tiles that are adjacent in your list will always be on either the same row or the same column.
+They're still not sure which specific path is the problem, and so they now need `you` to find every path from `svr` (the server rack) to `out`. However, the paths you find must all also visit both dac and fft (in any order).
 
-Using the same example as before, the tiles marked `X` would be green:
+For example:
 ```
-..............
-.......#XXX#..
-.......X...X..
-..#XXXX#...X..
-..X........X..
-..#XXXXXX#.X..
-.........X.X..
-.........#X#..
-..............
+svr: aaa bbb
+aaa: fft
+fft: ccc
+bbb: tty
+tty: ccc
+ccc: ddd eee
+ddd: hub
+hub: fff
+eee: dac
+dac: fff
+fff: ggg hhh
+ggg: out
+hhh: out
 ```
-In addition, all of the tiles inside this loop of red and green tiles are also green. So, in this example, these are the green tiles:
+This new list of devices contains many paths from `svr` to `out`:
 ```
-..............
-.......#XXX#..
-.......XXXXX..
-..#XXXX#XXXX..
-..XXXXXXXXXX..
-..#XXXXXX#XX..
-.........XXX..
-.........#X#..
-..............
+svr,aaa,fft,ccc,ddd,hub,fff,ggg,out
+svr,aaa,fft,ccc,ddd,hub,fff,hhh,out
+svr,aaa,fft,ccc,eee,dac,fff,ggg,out
+svr,aaa,fft,ccc,eee,dac,fff,hhh,out
+svr,bbb,tty,ccc,ddd,hub,fff,ggg,out
+svr,bbb,tty,ccc,ddd,hub,fff,hhh,out
+svr,bbb,tty,ccc,eee,dac,fff,ggg,out
+svr,bbb,tty,ccc,eee,dac,fff,hhh,out
 ```
-The remaining tiles are never red nor green.
+However, only 2 paths from `svr` to `out` visit both dac and fft.
 
-The rectangle you choose still must have red tiles in opposite corners, but any other tiles it includes must now be red or green. This significantly limits your options.
+Find all of the paths that lead from `svr` to `out`. How many of those paths visit both dac and fft?
 
-For example, you could make a rectangle out of red and green tiles with an area of 15 between `7,3` and `11,1`:
-```
-..............
-.......OOOOO..
-.......OOOOO..
-..#XXXXOOOOO..
-..XXXXXXXXXX..
-..#XXXXXX#XX..
-.........XXX..
-.........#X#..
-..............
-```
-Or, you could make a thin rectangle with an area of 3 between `9,7` and `9,5`:
-```
-..............
-.......#XXX#..
-.......XXXXX..
-..#XXXX#XXXX..
-..XXXXXXXXXX..
-..#XXXXXXOXX..
-.........OXX..
-.........OX#..
-..............
-```
-The largest rectangle you can make in this example using only red and green tiles has area 24. One way to do this is between `9,5` and `2,3`:
-```
-..............
-.......#XXX#..
-.......XXXXX..
-..OOOOOOOOXX..
-..OOOOOOOOXX..
-..OOOOOOOOXX..
-.........XXX..
-.........#X#..
-..............
-```
-Using two red tiles as opposite corners, what is the largest area of any rectangle you can make using only red and green tiles?
-
-Your puzzle answer was `1571016172`.
+Your puzzle answer was `388893655378800`.
 
 Both parts of this puzzle are complete! They provide two gold stars: **
