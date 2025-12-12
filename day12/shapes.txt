@@ -1,0 +1,4100 @@
+Shapes: [0, 0]
+	Smallest rectangle found: 3 x 4 (area 12)
+	.	X	X	#
+	X	X	#	#
+	X	#	#	.
+
+Shapes: [0, 0, 0]
+	Smallest rectangle found: 3 x 6 (area 18)
+	.	O	O	#	.	X
+	O	O	#	#	X	X
+	O	#	#	X	X	.
+
+Shapes: [0, 0, 0, 0]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	O	O	.	@	@
+	O	O	#	@	@	X
+	O	#	#	@	X	X
+	#	#	.	X	X	.
+
+Shapes: [0, 0, 0, 0, 0]
+	Smallest rectangle found: 3 x 10 (area 30)
+	.	$	$	#	.	X	.	O	.	@
+	$	$	#	#	X	X	O	O	@	@
+	$	#	#	X	X	O	O	@	@	.
+
+Shapes: [0, 0, 0, 0, 1]
+	Smallest rectangle found: 11 x 3 (area 33)
+	.	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	O
+	.	O	O
+	O	O	.
+	.	$	$
+	$	$	.
+	$	$	$
+
+Shapes: [0, 0, 0, 0, 2]
+	Smallest rectangle found: 11 x 3 (area 33)
+	$	.	$
+	$	$	$
+	$	.	$
+	.	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	O
+	.	O	O
+	O	O	.
+
+Shapes: [0, 0, 0, 0, 3]
+	Smallest rectangle found: 11 x 3 (area 33)
+	.	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	O
+	.	O	O
+	O	O	.
+	$	$	$
+	$	.	$
+	$	.	$
+
+Shapes: [0, 0, 0, 0, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	$	$	$	#	.	X	.	O	.	@
+	$	$	#	#	X	X	O	O	@	@
+	$	#	#	X	X	O	O	@	@	.
+
+Shapes: [0, 0, 0, 0, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	.	@	@	#	.	X	.	O	$	$
+	@	@	#	#	X	X	O	O	$	$
+	@	#	#	X	X	O	O	$	$	$
+
+Shapes: [0, 0, 0, 1]
+	Smallest rectangle found: 9 x 3 (area 27)
+	.	O	O
+	O	O	#
+	O	#	#
+	#	#	X
+	.	X	X
+	X	X	.
+	.	@	@
+	@	@	.
+	@	@	@
+
+Shapes: [0, 0, 0, 1, 1]
+	Smallest rectangle found: 5 x 7 (area 35)
+	$	$	$	@	@	.	.
+	.	$	$	@	@	@	.
+	$	$	#	@	X	@	O
+	.	#	#	X	X	O	O
+	#	#	X	X	O	O	.
+
+Shapes: [0, 0, 0, 1, 2]
+	Smallest rectangle found: 5 x 7 (area 35)
+	.	$	.	$	@	.	@
+	.	$	$	$	@	@	@
+	#	$	X	$	O	@	@
+	#	#	X	X	O	O	.
+	.	#	#	X	X	O	O
+
+Shapes: [0, 0, 0, 1, 3]
+	Smallest rectangle found: 5 x 7 (area 35)
+	@	@	@	$	$	$	.
+	.	@	@	$	.	$	.
+	@	@	#	$	X	$	O
+	.	#	#	X	X	O	O
+	#	#	X	X	O	O	.
+
+Shapes: [0, 0, 0, 1, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	X
+	.	X	X
+	X	X	O
+	.	O	O
+	O	O	.
+	.	@	@
+	@	@	.
+	@	@	@
+
+Shapes: [0, 0, 0, 1, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	.	O	O
+	O	O	#
+	O	#	#
+	#	#	X
+	.	X	X
+	X	X	$
+	$	$	$
+	$	$	$
+	.	@	@
+	@	@	.
+	@	@	@
+
+Shapes: [0, 0, 0, 2]
+	Smallest rectangle found: 9 x 3 (area 27)
+	@	.	@
+	@	@	@
+	@	.	@
+	.	O	O
+	O	O	#
+	O	#	#
+	#	#	X
+	.	X	X
+	X	X	.
+
+Shapes: [0, 0, 0, 2, 2]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	.	@	$	.	$
+	@	@	@	$	$	$
+	@	.	@	$	#	$
+	O	.	.	#	#	X
+	O	O	#	#	X	X
+	.	O	O	X	X	.
+
+Shapes: [0, 0, 0, 2, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	.	@	.	.	#
+	@	@	@	.	#	#
+	@	X	@	#	#	.
+	O	X	X	$	$	$
+	O	O	X	X	.	$
+	.	O	O	$	$	$
+
+Shapes: [0, 0, 0, 2, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	@	.	@
+	@	@	@
+	@	.	@
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	X
+	.	X	X
+	X	X	O
+	.	O	O
+	O	O	.
+
+Shapes: [0, 0, 0, 2, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	@	.	@
+	@	@	@
+	@	.	@
+	.	O	O
+	O	O	#
+	O	#	#
+	#	#	X
+	.	X	X
+	X	X	$
+	$	$	$
+	$	$	$
+
+Shapes: [0, 0, 0, 3]
+	Smallest rectangle found: 9 x 3 (area 27)
+	.	O	O
+	O	O	#
+	O	#	#
+	#	#	X
+	.	X	X
+	X	X	.
+	@	@	@
+	@	.	@
+	@	.	@
+
+Shapes: [0, 0, 0, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	@	@	@
+	.	#	#	@	.	@
+	#	#	.	@	X	@
+	$	$	$	X	X	O
+	$	.	X	X	O	O
+	$	$	$	O	O	.
+
+Shapes: [0, 0, 0, 3, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	X
+	.	X	X
+	X	X	O
+	.	O	O
+	O	O	.
+	@	@	@
+	@	.	@
+	@	.	@
+
+Shapes: [0, 0, 0, 3, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	.	O	O
+	O	O	#
+	O	#	#
+	#	#	X
+	.	X	X
+	X	X	$
+	$	$	$
+	$	$	$
+	@	@	@
+	@	.	@
+	@	.	@
+
+Shapes: [0, 0, 0, 4]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	O	O	@	@	@
+	O	O	#	@	@	X
+	O	#	#	@	X	X
+	#	#	.	X	X	.
+
+Shapes: [0, 0, 0, 4, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	$	$	$	#	.	X	.	O	.	@
+	$	$	#	#	X	X	O	O	@	@
+	$	#	#	X	X	O	O	@	@	@
+
+Shapes: [0, 0, 0, 4, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	@	@	@	#	.	X	.	O	$	$
+	@	@	#	#	X	X	O	O	$	$
+	@	#	#	X	X	O	O	$	$	$
+
+Shapes: [0, 0, 0, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	.	O	O	#	.	X	@	@
+	O	O	#	#	X	X	@	@
+	O	#	#	X	X	@	@	@
+
+Shapes: [0, 0, 0, 5, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	@	@	@	O	O	#	.	X	$	$
+	@	@	O	O	#	#	X	X	$	$
+	@	@	O	#	#	X	X	$	$	$
+
+Shapes: [0, 0, 1]
+	Smallest rectangle found: 3 x 7 (area 21)
+	.	X	X	#	.	O	O
+	X	X	#	#	O	O	.
+	X	#	#	.	O	O	O
+
+Shapes: [0, 0, 1, 1]
+	Smallest rectangle found: 7 x 4 (area 28)
+	.	X	X	.
+	X	X	@	@
+	X	@	@	@
+	O	@	O	@
+	O	O	O	#
+	O	O	#	#
+	.	#	#	.
+
+Shapes: [0, 0, 1, 1, 1]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	O	O	$	$	.
+	O	O	.	$	$	$
+	O	O	O	$	#	$
+	.	@	@	#	#	X
+	@	@	#	#	X	X
+	@	@	@	X	X	.
+
+Shapes: [0, 0, 1, 1, 2]
+	Smallest rectangle found: 5 x 7 (area 35)
+	@	@	@	.	O	O	O
+	@	@	$	$	$	O	O
+	X	@	@	$	O	O	#
+	X	X	$	$	$	#	#
+	.	X	X	.	#	#	.
+
+Shapes: [0, 0, 1, 1, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	$	$	$	@	@	.
+	$	.	$	@	@	@
+	$	.	$	@	#	@
+	.	O	O	#	#	X
+	O	O	#	#	X	X
+	O	O	O	X	X	.
+
+Shapes: [0, 0, 1, 1, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	@	@	@	O	O	.	.
+	.	@	@	O	O	O	.
+	@	@	#	O	X	O	$
+	.	#	#	X	X	$	$
+	#	#	X	X	$	$	$
+
+Shapes: [0, 0, 1, 1, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	$	$	$
+	.	#	#	$	$	$
+	#	#	@	@	@	$
+	.	O	O	@	@	X
+	O	O	@	@	X	X
+	O	O	O	X	X	.
+
+Shapes: [0, 0, 1, 2]
+	Smallest rectangle found: 6 x 5 (area 30)
+	@	@	@	.	.
+	.	@	#	#	.
+	@	@	@	#	#
+	O	O	X	X	#
+	O	O	O	X	X
+	O	.	O	.	X
+
+Shapes: [0, 0, 1, 2, 2]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	.	@	$	.	$
+	@	@	@	$	$	$
+	@	.	@	$	#	$
+	.	O	O	#	#	X
+	O	O	#	#	X	X
+	O	O	O	X	X	.
+
+Shapes: [0, 0, 1, 2, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	.	@	$	$	$
+	@	@	@	$	.	$
+	@	.	@	$	#	$
+	.	O	O	#	#	X
+	O	O	#	#	X	X
+	O	O	O	X	X	.
+
+Shapes: [0, 0, 1, 2, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	.	@	.	@	O	.	O
+	.	@	@	@	O	O	O
+	$	@	#	@	X	O	O
+	$	$	#	#	X	X	.
+	$	$	$	#	#	X	X
+
+Shapes: [0, 0, 1, 2, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	.	@	.	X	X
+	@	@	@	X	X	#
+	@	.	@	X	#	#
+	.	O	O	#	#	$
+	O	O	.	$	$	$
+	O	O	O	$	$	$
+
+Shapes: [0, 0, 1, 3]
+	Smallest rectangle found: 6 x 5 (area 30)
+	O	O	O	.	#
+	.	O	O	#	#
+	O	O	#	#	X
+	@	@	@	X	X
+	@	.	X	X	.
+	@	@	@	.	.
+
+Shapes: [0, 0, 1, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	@	@	$	$	$
+	@	.	@	$	.	$
+	@	.	@	$	#	$
+	.	O	O	#	#	X
+	O	O	#	#	X	X
+	O	O	O	X	X	.
+
+Shapes: [0, 0, 1, 3, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	O	O	O	@	@	@	.
+	.	O	O	@	.	@	.
+	O	O	#	@	X	@	$
+	.	#	#	X	X	$	$
+	#	#	X	X	$	$	$
+
+Shapes: [0, 0, 1, 3, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	@	@	@
+	.	#	#	@	.	@
+	#	#	O	@	O	@
+	$	$	O	O	O	X
+	$	$	O	O	X	X
+	$	$	$	X	X	.
+
+Shapes: [0, 0, 1, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	.
+	.	O	O
+	O	O	.
+	O	O	O
+
+Shapes: [0, 0, 1, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	X
+	.	X	X
+	X	X	.
+	@	@	@
+	.	@	@
+	O	O	@
+	O	O	O
+	O	.	O
+
+Shapes: [0, 0, 1, 4, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	$
+	$	$	$
+	$	$	$
+	.	O	O
+	O	O	.
+	O	O	O
+
+Shapes: [0, 0, 1, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	.	X	X
+	X	X	#
+	X	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	.	O	O
+	O	O	.
+	O	O	O
+
+Shapes: [0, 0, 1, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	.	X	X
+	X	X	#
+	X	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	$	$	$
+	$	$	$
+	$	O	O
+	O	O	.
+	O	O	O
+
+Shapes: [0, 0, 2]
+	Smallest rectangle found: 3 x 7 (area 21)
+	O	.	O	.	X	X	#
+	O	O	O	X	X	#	#
+	O	.	O	X	#	#	.
+
+Shapes: [0, 0, 2, 2]
+	Smallest rectangle found: 3 x 10 (area 30)
+	O	.	O	@	.	@	.	X	X	#
+	O	O	O	@	@	@	X	X	#	#
+	O	.	O	@	.	@	X	#	#	.
+
+Shapes: [0, 0, 2, 2, 2]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	.	@
+	O	O	O	@	@	@
+	O	.	O	@	#	@
+	$	$	$	#	#	X
+	.	$	#	#	X	X
+	$	$	$	X	X	.
+
+Shapes: [0, 0, 2, 2, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	.	@
+	O	O	O	@	@	@
+	O	.	O	@	#	@
+	$	$	$	#	#	X
+	$	.	#	#	X	X
+	$	$	$	X	X	.
+
+Shapes: [0, 0, 2, 2, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	.	@
+	O	O	O	@	@	@
+	O	.	O	@	#	@
+	$	.	.	#	#	X
+	$	$	#	#	X	X
+	$	$	$	X	X	.
+
+Shapes: [0, 0, 2, 2, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	.	@
+	O	O	O	@	@	@
+	O	.	O	@	#	@
+	$	$	$	#	#	X
+	$	$	#	#	X	X
+	$	$	.	X	X	.
+
+Shapes: [0, 0, 2, 3]
+	Smallest rectangle found: 3 x 10 (area 30)
+	O	.	O	.	X	X	#	@	@	@
+	O	O	O	X	X	#	#	@	.	@
+	O	.	O	X	#	#	.	@	.	@
+
+Shapes: [0, 0, 2, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	@	@
+	O	O	O	@	.	@
+	O	.	O	@	#	@
+	$	$	$	#	#	X
+	$	.	#	#	X	X
+	$	$	$	X	X	.
+
+Shapes: [0, 0, 2, 3, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	.	.	#
+	O	O	O	.	#	#
+	O	X	O	#	#	.
+	$	X	X	@	@	@
+	$	$	X	X	.	@
+	$	$	$	@	@	@
+
+Shapes: [0, 0, 2, 3, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	.	X	X
+	O	O	O	X	X	#
+	O	.	O	X	#	#
+	@	@	@	#	#	$
+	@	.	@	$	$	$
+	@	.	@	$	$	$
+
+Shapes: [0, 0, 2, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	O	.	O
+	O	O	O
+	O	.	O
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	.
+
+Shapes: [0, 0, 2, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	.	O
+	O	O	O
+	O	.	O
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	X
+	.	X	X
+	X	X	@
+	.	@	@
+	@	@	@
+
+Shapes: [0, 0, 2, 4, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	.	O
+	O	O	O
+	O	.	O
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	$
+	$	$	$
+	$	$	$
+
+Shapes: [0, 0, 2, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	O	.	O
+	O	O	O
+	O	.	O
+	.	X	X
+	X	X	#
+	X	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+
+Shapes: [0, 0, 2, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	.	O
+	O	O	O
+	O	.	O
+	$	$	$
+	$	$	$
+	$	X	X
+	X	X	#
+	X	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+
+Shapes: [0, 0, 3]
+	Smallest rectangle found: 3 x 7 (area 21)
+	.	X	X	#	O	O	O
+	X	X	#	#	O	.	O
+	X	#	#	.	O	.	O
+
+Shapes: [0, 0, 3, 3]
+	Smallest rectangle found: 7 x 4 (area 28)
+	.	X	X	#
+	X	X	#	#
+	X	#	#	.
+	O	O	O	.
+	O	@	O	@
+	O	@	O	@
+	.	@	@	@
+
+Shapes: [0, 0, 3, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	@	@	@
+	O	.	O	@	.	@
+	O	.	O	@	#	@
+	$	$	$	#	#	X
+	$	.	#	#	X	X
+	$	$	$	X	X	.
+
+Shapes: [0, 0, 3, 3, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	O	O	O
+	.	#	#	O	.	O
+	#	#	.	O	X	O
+	@	@	@	X	X	$
+	@	.	X	X	$	$
+	@	@	@	$	$	$
+
+Shapes: [0, 0, 3, 3, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	$	$	$
+	.	#	#	$	$	$
+	#	#	O	O	O	$
+	X	.	O	@	O	@
+	X	X	O	@	O	@
+	.	X	X	@	@	@
+
+Shapes: [0, 0, 3, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	.
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [0, 0, 3, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	X
+	.	X	X
+	X	X	@
+	.	@	@
+	@	@	@
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [0, 0, 3, 4, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	X
+	.	X	X
+	X	X	$
+	$	$	$
+	$	$	$
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [0, 0, 3, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	.	X	X
+	X	X	#
+	X	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [0, 0, 3, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	$	$	$
+	$	$	$
+	$	X	X
+	X	X	#
+	X	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [0, 0, 4]
+	Smallest rectangle found: 3 x 6 (area 18)
+	O	O	O	#	.	X
+	O	O	#	#	X	X
+	O	#	#	X	X	.
+
+Shapes: [0, 0, 4, 4]
+	Smallest rectangle found: 4 x 6 (area 24)
+	O	O	O	@	@	@
+	O	O	#	@	@	X
+	O	#	#	@	X	X
+	#	#	.	X	X	.
+
+Shapes: [0, 0, 4, 4, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	$	$	$	#	.	X	@	O	O	O
+	$	$	#	#	X	X	@	@	O	O
+	$	#	#	X	X	.	@	@	@	O
+
+Shapes: [0, 0, 4, 4, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	O	O	O	#	@	@	@	X	$	$
+	O	O	#	#	@	@	X	X	$	$
+	O	#	#	.	@	X	X	$	$	$
+
+Shapes: [0, 0, 4, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	O	O	O	#	.	X	@	@
+	O	O	#	#	X	X	@	@
+	O	#	#	X	X	@	@	@
+
+Shapes: [0, 0, 4, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	.	.	#
+	.	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	O	O	O
+	O	O	X
+	O	X	X
+	X	X	$
+	$	$	$
+	$	$	$
+
+Shapes: [0, 0, 5]
+	Smallest rectangle found: 3 x 6 (area 18)
+	.	X	X	#	O	O
+	X	X	#	#	O	O
+	X	#	#	O	O	O
+
+Shapes: [0, 0, 5, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	O	O	O	X	X	#	@	@
+	O	O	X	X	#	#	@	@
+	O	O	X	#	#	@	@	@
+
+Shapes: [0, 0, 5, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	.	X	X
+	X	X	#
+	X	#	#
+	#	#	$
+	$	$	$
+	$	$	$
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [0, 1]
+	Smallest rectangle found: 5 x 3 (area 15)
+	X	X	X
+	.	X	X
+	X	X	#
+	.	#	#
+	#	#	.
+
+Shapes: [0, 1, 1]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	.	O	O	O	.
+	.	X	X	O	O	#
+	X	X	O	O	#	#
+	X	X	X	#	#	.
+
+Shapes: [0, 1, 1, 1]
+	Smallest rectangle found: 8 x 4 (area 32)
+	X	X	X	.
+	.	X	X	.
+	X	X	@	@
+	.	@	@	@
+	O	@	O	@
+	O	O	O	#
+	O	O	#	#
+	.	#	#	.
+
+Shapes: [0, 1, 1, 1, 1]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	.	@	@	@	.	$	$	$	.
+	.	X	X	@	@	O	O	$	$	#
+	X	X	@	@	O	O	$	$	#	#
+	X	X	X	.	O	O	O	#	#	.
+
+Shapes: [0, 1, 1, 1, 2]
+	Smallest rectangle found: 5 x 8 (area 40)
+	@	@	@	.	O	O	O	.
+	@	@	$	$	$	O	O	.
+	#	@	@	$	O	O	X	X
+	#	#	$	$	$	X	X	.
+	.	#	#	.	.	X	X	X
+
+Shapes: [0, 1, 1, 1, 3]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	.	O	O	O	.	@	@	@	.
+	$	$	$	O	O	X	X	@	@	#
+	$	.	O	O	X	X	@	@	#	#
+	$	$	$	.	X	X	X	#	#	.
+
+Shapes: [0, 1, 1, 1, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	X	X	@	@	.
+	X	X	.	@	@	@
+	X	X	X	@	#	@
+	.	O	O	#	#	$
+	O	O	#	#	$	$
+	O	O	O	$	$	$
+
+Shapes: [0, 1, 1, 1, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	$	$	$
+	.	O	O	$	$	$
+	O	O	@	@	@	$
+	.	X	X	@	@	#
+	X	X	@	@	#	#
+	X	X	X	#	#	.
+
+Shapes: [0, 1, 1, 2]
+	Smallest rectangle found: 8 x 4 (area 32)
+	.	X	X	.
+	.	X	X	X
+	@	X	@	X
+	@	@	@	.
+	@	O	@	O
+	#	O	O	O
+	#	#	O	O
+	.	#	#	.
+
+Shapes: [0, 1, 1, 2, 2]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	.	@	@	@	.	O	O	O	.
+	.	X	X	@	$	$	$	O	O	#
+	X	X	@	@	@	$	O	O	#	#
+	X	X	X	.	$	$	$	#	#	.
+
+Shapes: [0, 1, 1, 2, 3]
+	Smallest rectangle found: 6 x 7 (area 42)
+	@	.	@	$	$	$	.
+	@	@	@	$	.	$	.
+	@	.	@	$	#	$	.
+	.	X	X	#	#	O	O
+	X	X	#	#	O	O	.
+	X	X	X	.	O	O	O
+
+Shapes: [0, 1, 1, 2, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	O	O	O	.	X	X	X
+	O	O	@	@	@	X	X
+	$	O	O	@	X	X	#
+	$	$	@	@	@	#	#
+	$	$	$	.	#	#	.
+
+Shapes: [0, 1, 1, 2, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	.	@	X	.	X
+	@	@	@	X	X	X
+	@	O	@	O	X	X
+	#	O	O	O	$	$
+	#	#	O	O	$	$
+	.	#	#	$	$	$
+
+Shapes: [0, 1, 1, 3]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	O	O
+	.	O	O
+	O	O	#
+	.	#	#
+	#	#	.
+	@	@	@
+	@	.	@
+	@	.	@
+	.	X	X
+	X	X	.
+	X	X	X
+
+Shapes: [0, 1, 1, 3, 3]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	.	O	O	O	.	@	@	@	.
+	.	X	X	O	O	#	@	$	@	$
+	X	X	O	O	#	#	@	$	@	$
+	X	X	X	#	#	.	.	$	$	$
+
+Shapes: [0, 1, 1, 3, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	@	@	O	O	.
+	@	.	@	O	O	O
+	@	.	@	O	#	O
+	.	X	X	#	#	$
+	X	X	#	#	$	$
+	X	X	X	$	$	$
+
+Shapes: [0, 1, 1, 3, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	@	@	@
+	.	X	X	@	.	@
+	X	X	O	@	O	@
+	$	$	O	O	O	#
+	$	$	O	O	#	#
+	$	$	$	#	#	.
+
+Shapes: [0, 1, 1, 4]
+	Smallest rectangle found: 7 x 4 (area 28)
+	@	@	@	.
+	@	@	O	O
+	@	O	O	O
+	X	O	X	O
+	X	X	X	#
+	X	X	#	#
+	.	#	#	.
+
+Shapes: [0, 1, 1, 4, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	.	X	X	@	@	@	.
+	.	X	X	X	@	@	.
+	O	X	O	X	#	@	$
+	O	O	O	#	#	$	$
+	O	O	#	#	$	$	$
+
+Shapes: [0, 1, 1, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	$	$	$
+	.	#	#	$	$	$
+	#	#	O	O	O	$
+	.	X	X	O	O	@
+	X	X	O	O	@	@
+	X	X	X	@	@	@
+
+Shapes: [0, 1, 1, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	O	O	O	.	#
+	.	O	O	#	#
+	O	O	#	#	.
+	@	@	@	X	X
+	@	@	X	X	.
+	@	@	X	X	X
+
+Shapes: [0, 1, 1, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	$	$	$
+	.	O	O	#	$	$
+	O	O	#	#	$	$
+	@	#	#	.	X	X
+	@	@	@	X	X	.
+	@	@	@	X	X	X
+
+Shapes: [0, 1, 2]
+	Smallest rectangle found: 4 x 6 (area 24)
+	O	O	O	#	#	.
+	.	O	X	X	#	#
+	O	O	O	X	X	#
+	.	.	X	X	X	.
+
+Shapes: [0, 1, 2, 2]
+	Smallest rectangle found: 8 x 4 (area 32)
+	O	.	O	.
+	O	O	O	.
+	O	@	O	@
+	.	@	@	@
+	X	@	X	@
+	X	X	X	#
+	X	X	#	#
+	.	#	#	.
+
+Shapes: [0, 1, 2, 2, 2]
+	Smallest rectangle found: 4 x 10 (area 40)
+	O	O	O	.	@	@	@	#	#	.
+	.	O	$	$	$	@	X	X	#	#
+	O	O	O	$	@	@	@	X	X	#
+	.	.	$	$	$	.	X	X	X	.
+
+Shapes: [0, 1, 2, 2, 3]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	.	O	O	O	.	X	X	X	.
+	$	$	$	O	@	@	@	X	X	#
+	$	.	O	O	O	@	X	X	#	#
+	$	$	$	.	@	@	@	#	#	.
+
+Shapes: [0, 1, 2, 2, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	.	@
+	O	O	O	@	@	@
+	O	.	O	@	#	@
+	.	X	X	#	#	$
+	X	X	#	#	$	$
+	X	X	X	$	$	$
+
+Shapes: [0, 1, 2, 2, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	O	.	O	@	.	@	X	X	X	.	#	$	$
+	O	O	O	@	@	@	.	X	X	#	#	$	$
+	O	.	O	@	.	@	X	X	#	#	$	$	$
+
+Shapes: [0, 1, 2, 3]
+	Smallest rectangle found: 8 x 4 (area 32)
+	.	@	@	@
+	.	@	.	@
+	O	@	O	@
+	O	O	O	.
+	O	X	O	X
+	#	X	X	X
+	#	#	X	X
+	.	#	#	.
+
+Shapes: [0, 1, 2, 3, 3]
+	Smallest rectangle found: 4 x 10 (area 40)
+	O	O	O	#	#	.	@	@	@	.
+	.	O	X	X	#	#	@	$	@	$
+	O	O	O	X	X	#	@	$	@	$
+	.	.	X	X	X	.	.	$	$	$
+
+Shapes: [0, 1, 2, 3, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	@	@
+	O	O	O	@	.	@
+	O	.	O	@	#	@
+	.	X	X	#	#	$
+	X	X	#	#	$	$
+	X	X	X	$	$	$
+
+Shapes: [0, 1, 2, 3, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	O	.	O	X	X	X	.	#	$	$	@	@	@
+	O	O	O	.	X	X	#	#	$	$	@	.	@
+	O	.	O	X	X	#	#	$	$	$	@	.	@
+
+Shapes: [0, 1, 2, 4]
+	Smallest rectangle found: 6 x 5 (area 30)
+	O	O	O	.	.
+	.	O	@	@	@
+	O	O	O	@	@
+	X	X	#	#	@
+	X	X	X	#	#
+	X	.	X	.	#
+
+Shapes: [0, 1, 2, 4, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	X	X	.	.	.	#
+	X	X	O	O	O	#	#
+	$	X	X	O	#	#	@
+	$	$	O	O	O	@	@
+	$	$	$	.	@	@	@
+
+Shapes: [0, 1, 2, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	@	@
+	O	O	O	@	@	#
+	O	.	O	@	#	#
+	.	X	X	#	#	$
+	X	X	.	$	$	$
+	X	X	X	$	$	$
+
+Shapes: [0, 1, 2, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	O	.	O	X	X	X	.	#	@	@
+	O	O	O	.	X	X	#	#	@	@
+	O	.	O	X	X	#	#	@	@	@
+
+Shapes: [0, 1, 2, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	@	@
+	O	O	O	@	@	@
+	O	X	O	X	.	@
+	#	X	X	X	$	$
+	#	#	X	X	$	$
+	.	#	#	$	$	$
+
+Shapes: [0, 1, 3]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	.	X	X	X	.
+	O	O	O	X	X	#
+	O	.	X	X	#	#
+	O	O	O	#	#	.
+
+Shapes: [0, 1, 3, 3]
+	Smallest rectangle found: 8 x 4 (area 32)
+	X	X	X	.
+	.	X	X	#
+	X	X	#	#
+	.	#	#	.
+	O	O	O	.
+	O	@	O	@
+	O	@	O	@
+	.	@	@	@
+
+Shapes: [0, 1, 3, 3, 3]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	.	X	X	X	.	O	O	O	.
+	$	$	$	X	X	#	O	@	O	@
+	$	.	X	X	#	#	O	@	O	@
+	$	$	$	#	#	.	.	@	@	@
+
+Shapes: [0, 1, 3, 3, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	@	@	@
+	O	.	O	@	.	@
+	O	.	O	@	#	@
+	.	X	X	#	#	$
+	X	X	#	#	$	$
+	X	X	X	$	$	$
+
+Shapes: [0, 1, 3, 3, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	$	$	$	O	O	O
+	$	$	@	O	@	O
+	$	$	@	O	@	O
+	X	X	@	@	@	#
+	X	X	X	.	#	#
+	X	.	X	#	#	.
+
+Shapes: [0, 1, 3, 4]
+	Smallest rectangle found: 6 x 5 (area 30)
+	X	X	X	.	#
+	.	X	X	#	#
+	X	X	#	#	@
+	O	O	O	@	@
+	O	.	@	@	@
+	O	O	O	.	.
+
+Shapes: [0, 1, 3, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	O	O	O
+	.	#	#	O	.	O
+	#	#	X	O	X	O
+	$	.	X	X	X	@
+	$	$	X	X	@	@
+	$	$	$	@	@	@
+
+Shapes: [0, 1, 3, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	O	O	O
+	.	#	#	O	.	O
+	#	#	X	O	X	O
+	$	$	X	X	X	@
+	$	$	X	X	@	@
+	$	$	$	@	@	@
+
+Shapes: [0, 1, 3, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	X	X	X	.	#	@	@	O	O	O
+	.	X	X	#	#	@	@	O	.	O
+	X	X	#	#	@	@	@	O	.	O
+
+Shapes: [0, 1, 3, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	$	$	$
+	.	X	X	#	$	$
+	X	X	#	#	$	$
+	@	#	#	O	O	O
+	@	@	@	O	.	O
+	@	@	@	O	.	O
+
+Shapes: [0, 1, 4]
+	Smallest rectangle found: 3 x 7 (area 21)
+	O	O	O	#	.	X	X
+	O	O	#	#	X	X	.
+	O	#	#	.	X	X	X
+
+Shapes: [0, 1, 4, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	.
+	O	O	O
+	.	O	O
+	X	X	O
+	X	X	X
+	X	.	X
+
+Shapes: [0, 1, 4, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	.
+	O	O	O
+	@	O	O
+	@	@	O
+	@	@	@
+	.	X	X
+	X	X	.
+	X	X	X
+
+Shapes: [0, 1, 4, 4, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	$
+	$	$	$
+	$	$	$
+	O	O	O
+	.	O	O
+	X	X	O
+	X	X	X
+	X	.	X
+
+Shapes: [0, 1, 4, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	O	O	O
+	O	O	#
+	O	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	.	X	X
+	X	X	.
+	X	X	X
+
+Shapes: [0, 1, 4, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	O	O
+	O	O	#
+	O	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	$	$	$
+	$	$	$
+	$	X	X
+	X	X	.
+	X	X	X
+
+Shapes: [0, 1, 5]
+	Smallest rectangle found: 3 x 7 (area 21)
+	X	X	X	.	#	O	O
+	.	X	X	#	#	O	O
+	X	X	#	#	O	O	O
+
+Shapes: [0, 1, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	.	.	#	@	@
+	.	#	#	@	@
+	#	#	@	@	@
+	O	O	O	X	X
+	O	O	X	X	.
+	O	O	X	X	X
+
+Shapes: [0, 1, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	@	@	$	$	$
+	@	@	.	#	$	$
+	@	@	#	#	$	$
+	O	#	#	.	X	X
+	O	O	O	X	X	.
+	O	O	O	X	X	X
+
+Shapes: [0, 2]
+	Smallest rectangle found: 3 x 6 (area 18)
+	X	.	X	.	.	#
+	X	X	X	.	#	#
+	X	.	X	#	#	.
+
+Shapes: [0, 2, 2]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	.	X
+	X	X	X
+	X	.	X
+	O	.	O
+	O	O	O
+	O	.	O
+	.	.	#
+	.	#	#
+	#	#	.
+
+Shapes: [0, 2, 2, 2]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	.	X	O	.	O	.
+	X	X	X	O	O	O	.
+	X	#	X	O	@	O	@
+	.	#	#	.	@	@	@
+	.	.	#	#	@	.	@
+
+Shapes: [0, 2, 2, 2, 2]
+	Smallest rectangle found: 4 x 11 (area 44)
+	X	X	X	.	O	O	O	.	.	.	#
+	.	X	@	@	@	O	$	$	$	#	#
+	X	X	X	@	O	O	O	$	#	#	.
+	.	.	@	@	@	.	$	$	$	.	.
+
+Shapes: [0, 2, 2, 2, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	X	X	X	.	O	O	O	.	#	#	.
+	.	X	@	@	@	O	$	$	$	#	#
+	X	X	X	@	O	O	O	.	$	.	#
+	.	.	@	@	@	.	$	$	$	.	.
+
+Shapes: [0, 2, 2, 2, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	.	O
+	X	X	X	O	O	O
+	X	.	X	O	#	O
+	@	@	@	#	#	$
+	.	@	#	#	$	$
+	@	@	@	$	$	$
+
+Shapes: [0, 2, 2, 2, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	.	X	O	.	O	.
+	X	X	X	O	O	O	.
+	X	.	X	O	@	O	@
+	$	$	#	.	@	@	@
+	$	$	#	#	@	.	@
+	$	$	$	#	#	.	.
+
+Shapes: [0, 2, 2, 3]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	.	X	O	.	O	.
+	X	X	X	O	O	O	.
+	X	#	X	O	@	O	@
+	.	#	#	.	@	.	@
+	.	.	#	#	@	@	@
+
+Shapes: [0, 2, 2, 3, 3]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	.	X	.	@	@	@
+	X	X	X	$	@	$	@
+	X	.	X	$	@	$	@
+	O	.	O	$	$	$	#
+	O	O	O	.	.	#	#
+	O	.	O	.	#	#	.
+
+Shapes: [0, 2, 2, 3, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	.	O
+	X	X	X	O	O	O
+	X	.	X	O	#	O
+	@	@	@	#	#	$
+	@	.	#	#	$	$
+	@	@	@	$	$	$
+
+Shapes: [0, 2, 2, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	.	X	O	.	O	.
+	X	X	X	O	O	O	.
+	X	.	X	O	#	O	.
+	@	@	@	#	#	$	$
+	@	.	#	#	.	$	$
+	@	@	@	.	$	$	$
+
+Shapes: [0, 2, 2, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	X	.	X	O	.	O	@	@	@	#
+	X	X	X	O	O	O	@	@	#	#
+	X	.	X	O	.	O	@	#	#	.
+
+Shapes: [0, 2, 2, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	.	O
+	X	X	X	O	O	O
+	X	.	X	O	#	O
+	$	.	.	#	#	@
+	$	$	#	#	@	@
+	$	$	$	@	@	@
+
+Shapes: [0, 2, 2, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	.	O
+	X	X	X	O	O	O
+	X	.	X	O	#	O
+	$	$	$	#	#	@
+	$	$	#	#	@	@
+	$	$	.	@	@	@
+
+Shapes: [0, 2, 2, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	.	X
+	X	X	X
+	X	.	X
+	O	.	O
+	O	O	O
+	O	.	O
+	.	.	#
+	.	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+
+Shapes: [0, 2, 2, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	X	.	X	O	.	O	@	@	@	.	#	$	$
+	X	X	X	O	O	O	@	@	.	#	#	$	$
+	X	.	X	O	.	O	@	@	#	#	$	$	$
+
+Shapes: [0, 2, 3]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	.	X
+	X	X	X
+	X	.	X
+	.	.	#
+	.	#	#
+	#	#	.
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [0, 2, 3, 3]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	.	X	O	O	O	.
+	X	X	X	O	@	O	@
+	X	#	X	O	@	O	@
+	.	#	#	.	@	@	@
+	.	.	#	#	.	.	.
+
+Shapes: [0, 2, 3, 3, 3]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	.	X	.	O	O	O
+	X	X	X	$	O	$	O
+	X	.	X	$	O	$	O
+	@	@	@	$	$	$	#
+	@	.	@	.	.	#	#
+	@	.	@	.	#	#	.
+
+Shapes: [0, 2, 3, 3, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	O	O
+	X	X	X	O	.	O
+	X	.	X	O	#	O
+	@	@	@	#	#	$
+	@	.	#	#	$	$
+	@	@	@	$	$	$
+
+Shapes: [0, 2, 3, 3, 5]
+	Smallest rectangle found: 5 x 8 (area 40)
+	X	.	X	.	#	#	.	.
+	X	X	X	#	#	O	O	O
+	X	$	X	#	@	O	@	O
+	.	$	$	$	@	O	@	O
+	.	$	$	$	@	@	@	.
+
+Shapes: [0, 2, 3, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	X	.	X	@	@	@	#	O	O	O
+	X	X	X	@	@	#	#	O	.	O
+	X	.	X	@	#	#	.	O	.	O
+
+Shapes: [0, 2, 3, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	$	$	$
+	X	X	X	$	$	#
+	X	.	X	$	#	#
+	O	O	O	#	#	@
+	O	.	O	.	@	@
+	O	.	O	@	@	@
+
+Shapes: [0, 2, 3, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	@	@	@
+	X	X	X	@	@	#
+	X	.	X	@	#	#
+	O	O	O	#	#	$
+	O	.	O	$	$	$
+	O	.	O	$	$	$
+
+Shapes: [0, 2, 3, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	.	X
+	X	X	X
+	X	.	X
+	.	.	#
+	.	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [0, 2, 3, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	X	.	X	@	@	@	.	#	$	$	O	O	O
+	X	X	X	@	@	.	#	#	$	$	O	.	O
+	X	.	X	@	@	#	#	$	$	$	O	.	O
+
+Shapes: [0, 2, 4]
+	Smallest rectangle found: 3 x 7 (area 21)
+	X	.	X	O	O	O	#
+	X	X	X	O	O	#	#
+	X	.	X	O	#	#	.
+
+Shapes: [0, 2, 4, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	.	X
+	X	X	X
+	X	.	X
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	O
+	.	O	O
+	O	O	O
+
+Shapes: [0, 2, 4, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	.	X
+	X	X	X
+	X	.	X
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	.
+	O	O	O
+	@	O	O
+	@	@	O
+	@	@	@
+
+Shapes: [0, 2, 4, 4, 5]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	.	X	@	@	@	#
+	X	X	X	@	@	#	#
+	X	$	X	@	#	#	O
+	.	$	$	$	.	O	O
+	.	$	$	$	O	O	O
+
+Shapes: [0, 2, 4, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	.	X
+	X	X	X
+	X	.	X
+	O	O	O
+	O	O	#
+	O	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+
+Shapes: [0, 2, 4, 5, 5]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	.	X	O	O	O	#
+	X	X	X	O	O	#	#
+	X	@	X	O	#	#	$
+	.	@	@	@	$	$	$
+	.	@	@	@	$	$	$
+
+Shapes: [0, 2, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	X	.	X	.	.	#	O	O
+	X	X	X	.	#	#	O	O
+	X	.	X	#	#	O	O	O
+
+Shapes: [0, 2, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	X	X	X	.	.
+	.	X	@	@	@
+	X	X	X	@	@
+	O	O	#	@	@
+	O	O	#	#	.
+	O	O	O	#	#
+
+Shapes: [0, 2, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	O	O
+	X	X	X	O	O	O
+	X	.	X	#	#	O
+	$	$	#	#	@	@
+	$	$	#	.	@	@
+	$	$	$	@	@	@
+
+Shapes: [0, 3]
+	Smallest rectangle found: 3 x 6 (area 18)
+	.	.	#	X	X	X
+	.	#	#	X	.	X
+	#	#	.	X	.	X
+
+Shapes: [0, 3, 3]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	X	X	X	.	.
+	O	X	O	X	.	#
+	O	X	O	X	#	#
+	O	O	O	#	#	.
+
+Shapes: [0, 3, 3, 3]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	X	X	.	O	O	O
+	X	@	X	@	O	.	O
+	X	@	X	@	O	#	O
+	.	@	@	@	#	#	.
+	.	.	.	#	#	.	.
+
+Shapes: [0, 3, 3, 3, 3]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	X	X	X	.	.	O	O	O	.
+	@	X	@	X	.	#	O	$	O	$
+	@	X	@	X	#	#	O	$	O	$
+	@	@	@	#	#	.	.	$	$	$
+
+Shapes: [0, 3, 3, 3, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	O	O	O
+	X	.	X	O	.	O
+	X	.	X	O	#	O
+	@	@	@	#	#	$
+	@	.	#	#	$	$
+	@	@	@	$	$	$
+
+Shapes: [0, 3, 3, 3, 5]
+	Smallest rectangle found: 5 x 8 (area 40)
+	.	X	X	X	$	$	$	.
+	O	X	O	X	$	$	$	.
+	O	X	O	X	#	@	$	@
+	O	O	O	#	#	@	.	@
+	.	.	#	#	.	@	@	@
+
+Shapes: [0, 3, 3, 4]
+	Smallest rectangle found: 7 x 4 (area 28)
+	@	@	@	#
+	@	@	#	#
+	@	#	#	.
+	X	X	X	.
+	X	O	X	O
+	X	O	X	O
+	.	O	O	O
+
+Shapes: [0, 3, 3, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	@	@	@
+	.	#	#	.	@	@
+	#	#	X	X	X	@
+	$	.	X	O	X	O
+	$	$	X	O	X	O
+	$	$	$	O	O	O
+
+Shapes: [0, 3, 3, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	@	@	@
+	.	#	#	.	@	@
+	#	#	X	X	X	@
+	$	$	X	O	X	O
+	$	$	X	O	X	O
+	$	$	$	O	O	O
+
+Shapes: [0, 3, 3, 5]
+	Smallest rectangle found: 8 x 4 (area 32)
+	@	@	@	.
+	@	@	.	#
+	@	@	#	#
+	.	#	#	.
+	X	X	X	.
+	X	O	X	O
+	X	O	X	O
+	.	O	O	O
+
+Shapes: [0, 3, 3, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	@	@	@
+	.	#	#	@	@	@
+	#	#	X	X	X	@
+	$	$	X	O	X	O
+	$	$	X	O	X	O
+	$	$	$	O	O	O
+
+Shapes: [0, 3, 4]
+	Smallest rectangle found: 3 x 7 (area 21)
+	O	O	O	#	X	X	X
+	O	O	#	#	X	.	X
+	O	#	#	.	X	.	X
+
+Shapes: [0, 3, 4, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	@	@	@
+	@	@	#
+	@	#	#
+	#	#	O
+	.	O	O
+	O	O	O
+	X	X	X
+	X	.	X
+	X	.	X
+
+Shapes: [0, 3, 4, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	$	$	$
+	$	$	#
+	$	#	#
+	#	#	.
+	X	X	X
+	X	.	X
+	X	.	X
+	O	O	O
+	@	O	O
+	@	@	O
+	@	@	@
+
+Shapes: [0, 3, 4, 4, 5]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	X	X	@	@	@	#
+	X	.	X	@	@	#	#
+	X	$	X	@	#	#	O
+	.	$	$	$	.	O	O
+	.	$	$	$	O	O	O
+
+Shapes: [0, 3, 4, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	O	O	O
+	O	O	#
+	O	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	X	X	X
+	X	.	X
+	X	.	X
+
+Shapes: [0, 3, 4, 5, 5]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	X	X	O	O	O	#
+	X	.	X	O	O	#	#
+	X	@	X	O	#	#	$
+	.	@	@	@	$	$	$
+	.	@	@	@	$	$	$
+
+Shapes: [0, 3, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	.	.	#	O	O	X	X	X
+	.	#	#	O	O	X	.	X
+	#	#	O	O	O	X	.	X
+
+Shapes: [0, 3, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	.	.	X	X	X
+	O	O	O	.	X
+	O	O	X	X	X
+	O	O	#	@	@
+	.	#	#	@	@
+	#	#	@	@	@
+
+Shapes: [0, 3, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	@	@	$	$	$
+	@	@	.	#	$	$
+	@	@	#	#	$	$
+	O	#	#	X	X	X
+	O	O	O	X	.	X
+	O	O	O	X	.	X
+
+Shapes: [0, 4]
+	Smallest rectangle found: 3 x 4 (area 12)
+	X	X	X	#
+	X	X	#	#
+	X	#	#	.
+
+Shapes: [0, 4, 4]
+	Smallest rectangle found: 3 x 6 (area 18)
+	O	O	O	#	.	X
+	O	O	#	#	X	X
+	O	#	#	X	X	X
+
+Shapes: [0, 4, 4, 4]
+	Smallest rectangle found: 4 x 6 (area 24)
+	@	@	@	X	X	X
+	@	@	#	O	X	X
+	@	#	#	O	O	X
+	#	#	.	O	O	O
+
+Shapes: [0, 4, 4, 4, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	$	$	$	#	.	O	@	X	X	X
+	$	$	#	#	O	O	@	@	X	X
+	$	#	#	O	O	O	@	@	@	X
+
+Shapes: [0, 4, 4, 4, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	@	@	@	#	$	$	O	X	X	X
+	@	@	#	#	$	$	O	O	X	X
+	@	#	#	$	$	$	O	O	O	X
+
+Shapes: [0, 4, 4, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	.	.	#
+	.	#	#
+	#	#	@
+	@	@	@
+	@	@	@
+	X	X	X
+	O	X	X
+	O	O	X
+	O	O	O
+
+Shapes: [0, 4, 4, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	O	O
+	O	O	#
+	O	#	#
+	#	#	$
+	$	$	$
+	$	$	$
+	X	X	X
+	.	X	X
+	@	.	X
+	@	@	@
+	@	@	@
+
+Shapes: [0, 4, 5]
+	Smallest rectangle found: 3 x 6 (area 18)
+	X	X	X	#	O	O
+	X	X	#	#	O	O
+	X	#	#	O	O	O
+
+Shapes: [0, 4, 5, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	X	X
+	X	X	#
+	X	#	#
+	#	#	.
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [0, 4, 5, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	X	X
+	X	X	#
+	X	#	#
+	#	#	$
+	$	$	$
+	$	$	$
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [0, 5]
+	Smallest rectangle found: 5 x 3 (area 15)
+	.	.	#
+	.	#	#
+	#	#	X
+	X	X	X
+	X	X	X
+
+Shapes: [0, 5, 5]
+	Smallest rectangle found: 3 x 7 (area 21)
+	X	X	X	.	#	O	O
+	X	X	.	#	#	O	O
+	X	X	#	#	O	O	O
+
+Shapes: [0, 5, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	.	.	#	O	O
+	.	#	#	O	O
+	#	#	O	O	O
+	X	.	@	@	@
+	X	X	X	@	@
+	X	X	X	@	@
+
+Shapes: [0, 5, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	.	#	O	O	O
+	.	#	#	O	O	O
+	#	#	X	X	X	O
+	$	$	X	X	@	@
+	$	$	X	X	@	@
+	$	$	$	@	@	@
+
+Shapes: [1, 1]
+	Smallest rectangle found: 3 x 6 (area 18)
+	.	#	#	.	X	X
+	#	#	.	X	X	.
+	#	#	#	X	X	X
+
+Shapes: [1, 1, 1]
+	Smallest rectangle found: 9 x 3 (area 27)
+	.	#	#
+	#	#	.
+	#	#	#
+	.	X	X
+	X	X	.
+	X	X	X
+	.	O	O
+	O	O	.
+	O	O	O
+
+Shapes: [1, 1, 1, 1]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	#	#	.	X	X
+	#	#	.	X	X	.
+	#	#	#	X	X	X
+	.	O	O	.	@	@
+	O	O	.	@	@	.
+	O	O	O	@	@	@
+
+Shapes: [1, 1, 1, 1, 1]
+	Smallest rectangle found: 6 x 7 (area 42)
+	.	#	#	.	@	.	@
+	#	#	$	$	@	@	@
+	#	#	#	$	$	@	@
+	O	O	$	$	$	X	X
+	O	O	O	.	X	X	.
+	O	.	O	.	X	X	X
+
+Shapes: [1, 1, 1, 1, 2]
+	Smallest rectangle found: 6 x 7 (area 42)
+	$	$	$	.	O	.	O
+	.	$	@	@	O	O	O
+	$	$	$	@	@	O	O
+	X	X	@	@	@	#	#
+	X	X	X	.	#	#	.
+	X	.	X	.	#	#	#
+
+Shapes: [1, 1, 1, 1, 3]
+	Smallest rectangle found: 6 x 7 (area 42)
+	@	@	@	.	$	$	$
+	.	@	@	#	#	.	$
+	@	@	#	#	$	$	$
+	O	O	#	#	#	X	X
+	O	O	O	.	X	X	.
+	O	.	O	.	X	X	X
+
+Shapes: [1, 1, 1, 1, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	#	#	.	@	@	@	$	$	$
+	#	#	X	X	@	@	O	O	$	$
+	#	#	#	X	X	@	@	O	O	$
+	.	.	X	X	X	.	O	O	O	.
+
+Shapes: [1, 1, 1, 1, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	.	#	#	.	@	.	@
+	#	#	.	.	@	@	@
+	#	#	#	X	X	@	@
+	$	$	X	X	O	O	O
+	$	$	X	X	X	O	O
+	$	$	$	.	O	O	.
+
+Shapes: [1, 1, 1, 2]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	.	@	.	#	#
+	@	@	@	#	#	.
+	@	.	@	#	#	#
+	.	X	X	.	O	O
+	X	X	.	O	O	.
+	X	X	X	O	O	O
+
+Shapes: [1, 1, 1, 2, 2]
+	Smallest rectangle found: 6 x 7 (area 42)
+	@	@	@	.	O	O	O
+	.	@	$	$	$	O	O
+	@	@	@	$	O	O	.
+	X	X	$	$	$	#	#
+	X	X	X	.	#	#	.
+	X	.	X	.	#	#	#
+
+Shapes: [1, 1, 1, 2, 3]
+	Smallest rectangle found: 6 x 7 (area 42)
+	.	#	#	.	$	$	$
+	#	#	@	@	@	.	$
+	#	#	#	@	$	$	$
+	O	O	@	@	@	X	X
+	O	O	O	.	X	X	.
+	O	.	O	.	X	X	X
+
+Shapes: [1, 1, 1, 2, 4]
+	Smallest rectangle found: 5 x 8 (area 40)
+	O	O	O	.	X	X	X	.
+	O	O	@	@	@	X	X	.
+	$	O	O	@	X	X	#	#
+	$	$	@	@	@	#	#	.
+	$	$	$	.	.	#	#	#
+
+Shapes: [1, 1, 1, 2, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	@	.	@	.	O	.	O
+	@	@	@	.	O	O	O
+	@	.	@	#	#	O	O
+	$	$	#	#	X	X	X
+	$	$	#	#	#	X	X
+	$	$	$	.	X	X	.
+
+Shapes: [1, 1, 1, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	@	@	.	#	#
+	@	.	@	#	#	.
+	@	.	@	#	#	#
+	.	X	X	.	O	O
+	X	X	.	O	O	.
+	X	X	X	O	O	O
+
+Shapes: [1, 1, 1, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	@	@	@	.	.	#	#	.	X	.	X
+	@	$	@	$	#	#	O	O	X	X	X
+	@	$	@	$	#	#	#	O	O	X	X
+	.	$	$	$	.	.	O	O	O	.	.
+
+Shapes: [1, 1, 1, 3, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	$	$	$	O	O	O	.	@	@	@
+	$	$	#	#	O	O	X	X	.	@
+	$	#	#	O	O	X	X	@	@	@
+	.	#	#	#	.	X	X	X	.	.
+
+Shapes: [1, 1, 1, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	@	@	@	.	O	.	O
+	@	.	@	.	O	O	O
+	@	.	@	#	#	O	O
+	$	$	#	#	X	X	X
+	$	$	#	#	#	X	X
+	$	$	$	.	X	X	.
+
+Shapes: [1, 1, 1, 4]
+	Smallest rectangle found: 8 x 4 (area 32)
+	.	@	@	@
+	#	#	@	@
+	#	#	#	@
+	#	O	#	O
+	.	O	O	O
+	X	X	O	O
+	X	X	X	.
+	X	.	X	.
+
+Shapes: [1, 1, 1, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	#	#	@	@	@
+	#	#	O	O	@	@
+	#	#	#	O	O	@
+	X	X	O	O	O	$
+	X	X	X	.	$	$
+	X	.	X	$	$	$
+
+Shapes: [1, 1, 1, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	#	#	@	@	@
+	#	#	O	O	@	@
+	#	#	#	O	O	@
+	X	X	O	O	O	$
+	X	X	X	$	$	$
+	X	.	X	$	$	$
+
+Shapes: [1, 1, 1, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	.	#	#
+	#	#	.
+	#	#	#
+	.	X	X
+	X	X	.
+	X	X	X
+	@	@	@
+	@	@	@
+	@	O	O
+	O	O	.
+	O	O	O
+
+Shapes: [1, 1, 1, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	.	#	#	@	@	@	X	X	$	$	$	O	O
+	#	#	.	@	@	X	X	.	$	$	O	O	.
+	#	#	#	@	@	X	X	X	$	$	O	O	O
+
+Shapes: [1, 1, 2]
+	Smallest rectangle found: 9 x 3 (area 27)
+	O	.	O
+	O	O	O
+	O	.	O
+	.	#	#
+	#	#	.
+	#	#	#
+	.	X	X
+	X	X	.
+	X	X	X
+
+Shapes: [1, 1, 2, 2]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	.	@
+	O	O	O	@	@	@
+	O	.	O	@	.	@
+	.	#	#	.	X	X
+	#	#	.	X	X	.
+	#	#	#	X	X	X
+
+Shapes: [1, 1, 2, 2, 2]
+	Smallest rectangle found: 6 x 7 (area 42)
+	O	O	O	.	@	@	@
+	.	O	$	$	$	@	.
+	O	O	O	$	@	@	@
+	X	X	$	$	$	#	#
+	X	X	X	.	#	#	.
+	X	.	X	.	#	#	#
+
+Shapes: [1, 1, 2, 2, 3]
+	Smallest rectangle found: 6 x 7 (area 42)
+	O	O	O	.	$	$	$
+	.	O	@	@	@	.	$
+	O	O	O	@	$	$	$
+	X	X	@	@	@	#	#
+	X	X	X	.	#	#	.
+	X	.	X	.	#	#	#
+
+Shapes: [1, 1, 2, 2, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	.	O	O	O	.	X	X	X	.
+	.	#	#	O	@	@	@	X	X	$
+	#	#	O	O	O	@	X	X	$	$
+	#	#	#	.	@	@	@	$	$	$
+
+Shapes: [1, 1, 2, 2, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	O	.	O	.	X	.	X
+	O	O	O	.	X	X	X
+	O	.	O	#	#	X	X
+	$	$	#	#	@	@	@
+	$	$	#	#	#	@	.
+	$	$	$	.	@	@	@
+
+Shapes: [1, 1, 2, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	@	@	@
+	O	O	O	@	.	@
+	O	.	O	@	.	@
+	.	#	#	.	X	X
+	#	#	.	X	X	.
+	#	#	#	X	X	X
+
+Shapes: [1, 1, 2, 3, 3]
+	Smallest rectangle found: 6 x 7 (area 42)
+	$	$	$	.	@	@	@
+	$	.	O	O	O	.	@
+	$	$	$	O	@	@	@
+	X	X	O	O	O	#	#
+	X	X	X	.	#	#	.
+	X	.	X	.	#	#	#
+
+Shapes: [1, 1, 2, 3, 4]
+	Smallest rectangle found: 6 x 7 (area 42)
+	O	.	O	@	@	@	.
+	O	O	O	@	.	@	.
+	O	.	O	@	X	@	X
+	.	#	#	$	X	X	X
+	#	#	.	$	$	X	X
+	#	#	#	$	$	$	.
+
+Shapes: [1, 1, 2, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	O	.	O	.	X	.	X
+	O	O	O	.	X	X	X
+	O	.	O	#	#	X	X
+	$	$	#	#	@	@	@
+	$	$	#	#	#	.	@
+	$	$	$	.	@	@	@
+
+Shapes: [1, 1, 2, 4]
+	Smallest rectangle found: 8 x 4 (area 32)
+	.	#	#	.
+	.	#	#	#
+	O	#	O	#
+	O	O	O	.
+	O	X	O	X
+	@	X	X	X
+	@	@	X	X
+	@	@	@	.
+
+Shapes: [1, 1, 2, 4, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	X	X	.	@	@	@
+	X	X	O	O	O	@	@
+	$	X	X	O	#	#	@
+	$	$	O	O	O	#	#
+	$	$	$	.	#	#	#
+
+Shapes: [1, 1, 2, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	.	O	#	.	#
+	O	O	O	#	#	#
+	O	X	O	X	#	#
+	@	X	X	X	$	$
+	@	@	X	X	$	$
+	@	@	@	$	$	$
+
+Shapes: [1, 1, 2, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	.	O
+	O	O	O
+	O	.	O
+	.	#	#
+	#	#	.
+	#	#	#
+	@	@	@
+	@	@	@
+	@	X	X
+	X	X	.
+	X	X	X
+
+Shapes: [1, 1, 2, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	O	.	O	@	@	@	#	#	$	$	$	X	X
+	O	O	O	@	@	#	#	.	$	$	X	X	.
+	O	.	O	@	@	#	#	#	$	$	X	X	X
+
+Shapes: [1, 1, 3]
+	Smallest rectangle found: 9 x 3 (area 27)
+	O	O	O
+	O	.	O
+	O	.	O
+	.	#	#
+	#	#	.
+	#	#	#
+	.	X	X
+	X	X	.
+	X	X	X
+
+Shapes: [1, 1, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	@	@	@
+	O	.	O	@	.	@
+	O	.	O	@	.	@
+	.	#	#	.	X	X
+	#	#	.	X	X	.
+	#	#	#	X	X	X
+
+Shapes: [1, 1, 3, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	O	O	O	.	X	X	X	.	@	@	@
+	O	$	O	$	.	X	X	#	#	.	@
+	O	$	O	$	X	X	#	#	@	@	@
+	.	$	$	$	.	.	#	#	#	.	.
+
+Shapes: [1, 1, 3, 3, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	O	O	O	.	.	#	#	$	$	$
+	O	@	O	@	#	#	X	X	$	$
+	O	@	O	@	#	#	#	X	X	$
+	.	@	@	@	.	.	X	X	X	.
+
+Shapes: [1, 1, 3, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	O	O	O	.	X	.	X
+	O	.	O	.	X	X	X
+	O	.	O	#	#	X	X
+	$	$	#	#	@	@	@
+	$	$	#	#	#	.	@
+	$	$	$	.	@	@	@
+
+Shapes: [1, 1, 3, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	O	O
+	O	.	O
+	O	.	O
+	@	@	@
+	.	@	@
+	X	X	@
+	X	X	X
+	X	.	X
+	.	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 1, 3, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	#	.	#
+	O	.	O	#	#	#
+	O	X	O	X	#	#
+	$	X	X	X	.	@
+	$	$	X	X	@	@
+	$	$	$	@	@	@
+
+Shapes: [1, 1, 3, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	#	.	#
+	O	.	O	#	#	#
+	O	X	O	X	#	#
+	@	X	X	X	$	$
+	@	@	X	X	$	$
+	@	@	@	$	$	$
+
+Shapes: [1, 1, 3, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	O	O	O
+	O	.	O
+	O	.	O
+	.	#	#
+	#	#	.
+	#	#	#
+	@	@	@
+	@	@	@
+	@	X	X
+	X	X	.
+	X	X	X
+
+Shapes: [1, 1, 3, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	O	O	O	@	@	@	#	#	$	$	$	X	X
+	O	.	O	@	@	#	#	.	$	$	X	X	.
+	O	.	O	@	@	#	#	#	$	$	X	X	X
+
+Shapes: [1, 1, 4]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	#	#	O	O	O
+	#	#	X	X	O	O
+	#	#	#	X	X	O
+	.	.	X	X	X	.
+
+Shapes: [1, 1, 4, 4]
+	Smallest rectangle found: 7 x 4 (area 28)
+	.	O	O	O
+	#	#	O	O
+	#	#	#	O
+	#	X	#	X
+	@	X	X	X
+	@	@	X	X
+	@	@	@	.
+
+Shapes: [1, 1, 4, 4, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	X	X	X	O	O	O	.
+	X	X	#	#	O	O	.
+	$	X	X	#	#	O	@
+	$	$	#	#	#	@	@
+	$	$	$	.	@	@	@
+
+Shapes: [1, 1, 4, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	#	.	#
+	.	O	O	#	#	#
+	.	X	O	X	#	#
+	@	X	X	X	$	$
+	@	@	X	X	$	$
+	@	@	@	$	$	$
+
+Shapes: [1, 1, 4, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	X	X	O	O	O
+	X	X	X	O	O
+	X	.	X	.	O
+	@	@	@	#	#
+	@	@	#	#	.
+	@	@	#	#	#
+
+Shapes: [1, 1, 4, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	.	#	#	O	O	O
+	#	#	X	X	O	O
+	#	#	#	X	X	O
+	@	.	X	X	X	$
+	@	@	@	$	$	$
+	@	@	@	$	$	$
+
+Shapes: [1, 1, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	.	#	#	O	O	O	X	X
+	#	#	.	O	O	X	X	.
+	#	#	#	O	O	X	X	X
+
+Shapes: [1, 1, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	O	O	O	#	#
+	O	O	#	#	.
+	O	O	#	#	#
+	@	@	@	X	X
+	@	@	X	X	.
+	@	@	X	X	X
+
+Shapes: [1, 1, 5, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	.	#	#	@	@	@	X	X	O	.	$	$	$
+	#	#	.	@	@	X	X	.	O	O	O	$	$
+	#	#	#	@	@	X	X	X	O	O	O	$	$
+
+Shapes: [1, 2]
+	Smallest rectangle found: 3 x 6 (area 18)
+	X	.	X	.	#	#
+	X	X	X	#	#	.
+	X	.	X	#	#	#
+
+Shapes: [1, 2, 2]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	.	X
+	X	X	X
+	X	.	X
+	O	.	O
+	O	O	O
+	O	.	O
+	.	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 2, 2, 2]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	.	O
+	X	X	X	O	O	O
+	X	.	X	O	.	O
+	@	.	@	.	#	#
+	@	@	@	#	#	.
+	@	.	@	#	#	#
+
+Shapes: [1, 2, 2, 2, 2]
+	Smallest rectangle found: 4 x 11 (area 44)
+	X	X	X	.	O	O	O	.	#	#	#
+	.	X	@	@	@	O	$	$	$	#	#
+	X	X	X	@	O	O	O	$	#	#	.
+	.	.	@	@	@	.	$	$	$	.	.
+
+Shapes: [1, 2, 2, 2, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	.	.	X	X	X	.	O	O	O	.	.
+	.	#	#	X	@	@	@	O	$	$	$
+	#	#	X	X	X	@	O	O	O	.	$
+	#	#	#	.	@	@	@	.	$	$	$
+
+Shapes: [1, 2, 2, 2, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	X	X	X	.	O	O	O	$	$	$
+	.	X	@	@	@	O	#	#	$	$
+	X	X	X	@	O	O	O	#	#	$
+	.	.	@	@	@	.	#	#	#	.
+
+Shapes: [1, 2, 2, 2, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	X	X	.	O	O	O
+	.	X	@	@	@	O	.
+	X	X	X	@	O	O	O
+	$	.	@	@	@	#	#
+	$	$	$	.	#	#	.
+	$	$	$	.	#	#	#
+
+Shapes: [1, 2, 2, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	.	O
+	X	X	X	O	O	O
+	X	.	X	O	.	O
+	@	@	@	.	#	#
+	@	.	@	#	#	.
+	@	.	@	#	#	#
+
+Shapes: [1, 2, 2, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	X	X	X	.	#	#	#	@	@	@	.
+	.	X	O	O	O	#	#	@	$	@	$
+	X	X	X	O	#	#	.	@	$	@	$
+	.	.	O	O	O	.	.	.	$	$	$
+
+Shapes: [1, 2, 2, 3, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	.	.	X	X	X	.	#	#	#	.
+	@	@	@	X	O	O	O	#	#	$
+	@	.	X	X	X	O	#	#	$	$
+	@	@	@	.	O	O	O	$	$	$
+
+Shapes: [1, 2, 2, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	X	X	.	@	@	@
+	.	X	O	O	O	.	@
+	X	X	X	O	@	@	@
+	$	.	O	O	O	#	#
+	$	$	$	.	#	#	.
+	$	$	$	.	#	#	#
+
+Shapes: [1, 2, 2, 4]
+	Smallest rectangle found: 8 x 4 (area 32)
+	X	.	X	.
+	X	X	X	.
+	X	O	X	O
+	.	O	O	O
+	#	O	#	O
+	#	#	#	@
+	#	#	@	@
+	.	@	@	@
+
+Shapes: [1, 2, 2, 4, 4]
+	Smallest rectangle found: 3 x 13 (area 39)
+	X	.	X	O	.	O	$	@	@	@	.	#	#
+	X	X	X	O	O	O	$	$	@	@	#	#	.
+	X	.	X	O	.	O	$	$	$	@	#	#	#
+
+Shapes: [1, 2, 2, 4, 5]
+	Smallest rectangle found: 5 x 8 (area 40)
+	X	.	X	#	#	@	@	@
+	X	X	X	#	#	#	@	@
+	X	$	X	#	O	#	O	@
+	.	$	$	$	O	O	O	.
+	.	$	$	$	O	.	O	.
+
+Shapes: [1, 2, 2, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	.	X
+	X	X	X
+	X	.	X
+	O	.	O
+	O	O	O
+	O	.	O
+	@	@	@
+	@	@	@
+	@	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 2, 2, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	.	X	$	$	$	.
+	X	X	X	$	$	$	.
+	X	.	X	$	O	O	O
+	@	@	@	#	#	O	.
+	@	@	#	#	O	O	O
+	@	@	#	#	#	.	.
+
+Shapes: [1, 2, 3]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	.	X
+	X	X	X
+	X	.	X
+	O	O	O
+	O	.	O
+	O	.	O
+	.	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 2, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	O	O
+	X	X	X	O	.	O
+	X	.	X	O	.	O
+	@	@	@	.	#	#
+	@	.	@	#	#	.
+	@	.	@	#	#	#
+
+Shapes: [1, 2, 3, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	.	.	X	X	X	.	.	O	O	O	.
+	.	#	#	X	@	@	@	O	$	O	$
+	#	#	X	X	X	.	@	O	$	O	$
+	#	#	#	.	@	@	@	.	$	$	$
+
+Shapes: [1, 2, 3, 3, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	X	X	X	$	$	$	O	O	O	.
+	.	X	#	#	$	$	O	@	O	@
+	X	X	X	#	#	$	O	@	O	@
+	.	.	#	#	#	.	.	@	@	@
+
+Shapes: [1, 2, 3, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	.	X	O	O	O	.
+	X	X	X	O	@	O	@
+	X	.	X	O	@	O	@
+	.	#	#	$	@	@	@
+	#	#	.	$	$	$	.
+	#	#	#	$	$	$	.
+
+Shapes: [1, 2, 3, 4]
+	Smallest rectangle found: 8 x 4 (area 32)
+	.	O	O	O
+	.	O	.	O
+	X	O	X	O
+	X	X	X	.
+	X	#	X	#
+	@	#	#	#
+	@	@	#	#
+	@	@	@	.
+
+Shapes: [1, 2, 3, 4, 4]
+	Smallest rectangle found: 3 x 13 (area 39)
+	X	.	X	O	O	O	$	@	@	@	.	#	#
+	X	X	X	O	.	O	$	$	@	@	#	#	.
+	X	.	X	O	.	O	$	$	$	@	#	#	#
+
+Shapes: [1, 2, 3, 4, 5]
+	Smallest rectangle found: 5 x 8 (area 40)
+	X	.	X	#	#	@	@	@
+	X	X	X	#	#	#	@	@
+	X	$	X	#	O	#	O	@
+	.	$	$	$	O	.	O	.
+	.	$	$	$	O	O	O	.
+
+Shapes: [1, 2, 3, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	.	X
+	X	X	X
+	X	.	X
+	O	O	O
+	O	.	O
+	O	.	O
+	@	@	@
+	@	@	@
+	@	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 2, 3, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	.	X	$	$	$	.
+	X	X	X	$	$	$	.
+	X	.	X	$	O	O	O
+	@	@	@	#	#	.	O
+	@	@	#	#	O	O	O
+	@	@	#	#	#	.	.
+
+Shapes: [1, 2, 4]
+	Smallest rectangle found: 4 x 6 (area 24)
+	X	X	X	O	O	O
+	.	X	#	#	O	O
+	X	X	X	#	#	O
+	.	.	#	#	#	.
+
+Shapes: [1, 2, 4, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	X	.	X	@	O	O	O	.	#	#
+	X	X	X	@	@	O	O	#	#	.
+	X	.	X	@	@	@	O	#	#	#
+
+Shapes: [1, 2, 4, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	O	O
+	X	X	X	.	O	O
+	X	#	X	#	.	O
+	$	#	#	#	.	@
+	$	$	#	#	@	@
+	$	$	$	@	@	@
+
+Shapes: [1, 2, 4, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	O	O	O
+	X	X	X	.	O	O
+	X	#	X	#	.	O
+	@	#	#	#	$	$
+	@	@	#	#	$	$
+	@	@	@	$	$	$
+
+Shapes: [1, 2, 4, 5]
+	Smallest rectangle found: 8 x 4 (area 32)
+	X	.	X	.
+	X	X	X	.
+	X	#	X	#
+	O	#	#	#
+	O	O	#	#
+	O	O	O	@
+	.	@	@	@
+	.	@	@	@
+
+Shapes: [1, 2, 4, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	.	X	@	@	@
+	X	X	X	@	@	@
+	X	#	X	#	.	@
+	O	#	#	#	$	$
+	O	O	#	#	$	$
+	O	O	O	$	$	$
+
+Shapes: [1, 2, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	X	.	X	O	O	O	#	#
+	X	X	X	O	O	#	#	.
+	X	.	X	O	O	#	#	#
+
+Shapes: [1, 2, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	.	X
+	X	X	X
+	X	.	X
+	.	#	#
+	#	#	.
+	#	#	#
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [1, 2, 5, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	X	.	X	@	@	@	#	#	O	.	$	$	$
+	X	X	X	@	@	#	#	.	O	O	O	$	$
+	X	.	X	@	@	#	#	#	O	O	O	$	$
+
+Shapes: [1, 3]
+	Smallest rectangle found: 3 x 6 (area 18)
+	X	X	X	.	#	#
+	X	.	X	#	#	.
+	X	.	X	#	#	#
+
+Shapes: [1, 3, 3]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	X	X
+	X	.	X
+	X	.	X
+	O	O	O
+	O	.	O
+	O	.	O
+	.	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 3, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	O	O	O
+	X	.	X	O	.	O
+	X	.	X	O	.	O
+	@	@	@	.	#	#
+	@	.	@	#	#	.
+	@	.	@	#	#	#
+
+Shapes: [1, 3, 3, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	X	X	X	.	O	O	O	.	.	#	#
+	X	@	X	@	O	$	O	$	#	#	.
+	X	@	X	@	O	$	O	$	#	#	#
+	.	@	@	@	.	$	$	$	.	.	.
+
+Shapes: [1, 3, 3, 3, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	X	X	X	.	$	$	$	O	O	O
+	X	@	X	@	$	$	#	#	.	O
+	X	@	X	@	$	#	#	O	O	O
+	.	@	@	@	.	#	#	#	.	.
+
+Shapes: [1, 3, 3, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	X	X	X	O	O	O	.
+	X	.	X	O	@	O	@
+	X	.	X	O	@	O	@
+	.	#	#	$	@	@	@
+	#	#	.	$	$	$	.
+	#	#	#	$	$	$	.
+
+Shapes: [1, 3, 3, 4]
+	Smallest rectangle found: 8 x 4 (area 32)
+	X	X	X	.
+	X	O	X	O
+	X	O	X	O
+	.	O	O	O
+	.	@	@	@
+	#	#	@	@
+	#	#	#	@
+	#	.	#	.
+
+Shapes: [1, 3, 3, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	@	@	@
+	X	O	X	O	@	@
+	X	O	X	O	.	@
+	$	O	O	O	#	#
+	$	$	.	#	#	.
+	$	$	$	#	#	#
+
+Shapes: [1, 3, 3, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	@	@	@
+	X	O	X	O	@	@
+	X	O	X	O	.	@
+	$	O	O	O	#	#
+	$	$	$	#	#	.
+	$	$	$	#	#	#
+
+Shapes: [1, 3, 3, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	X	X
+	X	.	X
+	X	.	X
+	O	O	O
+	O	.	O
+	O	.	O
+	@	@	@
+	@	@	@
+	@	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 3, 3, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	$	$	$
+	X	O	X	O	$	$
+	X	O	X	O	$	$
+	@	O	O	O	#	#
+	@	@	@	#	#	.
+	@	@	@	#	#	#
+
+Shapes: [1, 3, 4]
+	Smallest rectangle found: 4 x 6 (area 24)
+	O	O	O	X	X	X
+	O	O	#	#	.	X
+	O	#	#	X	X	X
+	.	#	#	#	.	.
+
+Shapes: [1, 3, 4, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	X	X	X	@	O	O	O	.	#	#
+	X	.	X	@	@	O	O	#	#	.
+	X	.	X	@	@	@	O	#	#	#
+
+Shapes: [1, 3, 4, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	O	O	O
+	X	.	X	.	O	O
+	X	#	X	#	.	O
+	$	#	#	#	.	@
+	$	$	#	#	@	@
+	$	$	$	@	@	@
+
+Shapes: [1, 3, 4, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	O	O	O
+	X	.	X	.	O	O
+	X	#	X	#	.	O
+	@	#	#	#	$	$
+	@	@	#	#	$	$
+	@	@	@	$	$	$
+
+Shapes: [1, 3, 4, 5]
+	Smallest rectangle found: 8 x 4 (area 32)
+	X	X	X	.
+	X	.	X	.
+	X	#	X	#
+	O	#	#	#
+	O	O	#	#
+	O	O	O	@
+	.	@	@	@
+	.	@	@	@
+
+Shapes: [1, 3, 4, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	@	@	@
+	X	.	X	@	@	@
+	X	#	X	#	.	@
+	O	#	#	#	$	$
+	O	O	#	#	$	$
+	O	O	O	$	$	$
+
+Shapes: [1, 3, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	X	X	X	O	O	O	#	#
+	X	.	X	O	O	#	#	.
+	X	.	X	O	O	#	#	#
+
+Shapes: [1, 3, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	X	X
+	X	.	X
+	X	.	X
+	.	#	#
+	#	#	.
+	#	#	#
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [1, 3, 5, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	X	X	X	@	@	@	#	#	O	.	$	$	$
+	X	.	X	@	@	#	#	.	O	O	O	$	$
+	X	.	X	@	@	#	#	#	O	O	O	$	$
+
+Shapes: [1, 4]
+	Smallest rectangle found: 5 x 3 (area 15)
+	X	X	X
+	.	X	X
+	#	#	X
+	#	#	#
+	#	.	#
+
+Shapes: [1, 4, 4]
+	Smallest rectangle found: 3 x 7 (area 21)
+	O	X	X	X	.	#	#
+	O	O	X	X	#	#	.
+	O	O	O	X	#	#	#
+
+Shapes: [1, 4, 4, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	X	X
+	@	X	X
+	@	@	X
+	@	@	@
+	O	O	O
+	.	O	O
+	#	#	O
+	#	#	#
+	#	.	#
+
+Shapes: [1, 4, 4, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	X	X	X
+	@	X	X
+	@	@	X
+	@	@	@
+	O	O	O
+	$	O	O
+	$	$	O
+	$	$	$
+	.	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 4, 4, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	O	O	O
+	.	X	X	.	O	O
+	.	#	X	#	.	O
+	@	#	#	#	$	$
+	@	@	#	#	$	$
+	@	@	@	$	$	$
+
+Shapes: [1, 4, 4, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	X	X	X
+	O	X	X
+	O	O	X
+	O	O	O
+	@	@	@
+	@	@	@
+	@	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 4, 4, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	X	X	X	@	@	@
+	.	X	X	@	@	@
+	.	#	X	#	.	@
+	O	#	#	#	$	$
+	O	O	#	#	$	$
+	O	O	O	$	$	$
+
+Shapes: [1, 4, 5]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	X	X	X	.	.
+	#	#	X	X	O	O
+	#	#	#	X	O	O
+	#	.	#	O	O	O
+
+Shapes: [1, 4, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	O	.	X	X	X
+	O	O	O	X	X
+	O	O	O	.	X
+	@	@	@	#	#
+	@	@	#	#	.
+	@	@	#	#	#
+
+Shapes: [1, 4, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	@	@	X	X	X
+	@	@	$	$	X	X
+	@	@	$	$	.	X
+	O	$	$	$	#	#
+	O	O	O	#	#	.
+	O	O	O	#	#	#
+
+Shapes: [1, 5]
+	Smallest rectangle found: 5 x 3 (area 15)
+	X	X	X
+	X	X	X
+	X	#	#
+	#	#	.
+	#	#	#
+
+Shapes: [1, 5, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	.	#	#	X	.	O	O	O
+	#	#	.	X	X	X	O	O
+	#	#	#	X	X	X	O	O
+
+Shapes: [1, 5, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	O	O	O	#	#
+	O	O	#	#	.
+	O	O	#	#	#
+	X	.	@	@	@
+	X	X	X	@	@
+	X	X	X	@	@
+
+Shapes: [1, 5, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	$	$	$
+	O	O	@	@	$	$
+	O	O	@	@	$	$
+	X	@	@	@	#	#
+	X	X	X	#	#	.
+	X	X	X	#	#	#
+
+Shapes: [2, 2]
+	Smallest rectangle found: 3 x 6 (area 18)
+	#	.	#	X	.	X
+	#	#	#	X	X	X
+	#	.	#	X	.	X
+
+Shapes: [2, 2, 2]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	.	X
+	X	X	X
+	X	.	X
+	O	.	O
+	O	O	O
+	O	.	O
+
+Shapes: [2, 2, 2, 2]
+	Smallest rectangle found: 6 x 6 (area 36)
+	#	.	#	X	.	X
+	#	#	#	X	X	X
+	#	.	#	X	.	X
+	O	.	O	@	.	@
+	O	O	O	@	@	@
+	O	.	O	@	.	@
+
+Shapes: [2, 2, 2, 2, 2]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	.	X	X	X	.	O	O	O
+	.	#	@	@	@	X	$	$	$	O	.
+	#	#	#	@	X	X	X	$	O	O	O
+	.	.	@	@	@	.	$	$	$	.	.
+
+Shapes: [2, 2, 2, 2, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	.	X	X	X	.	$	$	$
+	.	#	O	O	O	X	@	@	@	.	$
+	#	#	#	O	X	X	X	@	$	$	$
+	.	.	O	O	O	.	@	@	@	.	.
+
+Shapes: [2, 2, 2, 2, 4]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	.	X	X	X	.	$	$	$
+	.	#	O	O	O	X	@	@	@	$	$
+	#	#	#	O	X	X	X	@	.	.	$
+	.	.	O	O	O	.	@	@	@	.	.
+
+Shapes: [2, 2, 2, 2, 5]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	.	X	X	X	.	.	$	$
+	.	#	O	O	O	X	@	@	@	$	$
+	#	#	#	O	X	X	X	@	$	$	$
+	.	.	O	O	O	.	@	@	@	.	.
+
+Shapes: [2, 2, 2, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	#	.	#	X	.	X
+	#	#	#	X	X	X
+	#	.	#	X	.	X
+	O	.	O	@	@	@
+	O	O	O	@	.	@
+	O	.	O	@	.	@
+
+Shapes: [2, 2, 2, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	.	X	X	X	@	@	@	.
+	.	#	O	O	O	X	.	@	$	@	$
+	#	#	#	O	X	X	X	@	$	@	$
+	.	.	O	O	O	.	.	.	$	$	$
+
+Shapes: [2, 2, 2, 3, 4]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	.	X	X	X	.	$	$	$
+	.	#	O	O	O	X	@	@	@	$	$
+	#	#	#	O	X	X	X	.	@	.	$
+	.	.	O	O	O	.	@	@	@	.	.
+
+Shapes: [2, 2, 2, 3, 5]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	.	X	X	X	.	$	$	$
+	.	#	O	O	O	X	@	@	@	$	$
+	#	#	#	O	X	X	X	.	@	$	$
+	.	.	O	O	O	.	@	@	@	.	.
+
+Shapes: [2, 2, 2, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	#	.	#	X	.	X	.
+	#	#	#	X	X	X	.
+	#	@	#	X	O	X	O
+	.	@	@	.	O	O	O
+	.	@	@	@	O	.	O
+
+Shapes: [2, 2, 2, 4, 4]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	X	.	X	O	.	O	$	@	@	@
+	#	#	#	X	X	X	O	O	O	$	$	@	@
+	#	.	#	X	.	X	O	.	O	$	$	$	@
+
+Shapes: [2, 2, 2, 4, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	.	X	.
+	#	#	#	X	X	X	.
+	#	.	#	X	@	X	.
+	O	O	O	@	@	$	$
+	.	O	@	@	@	$	$
+	O	O	O	.	$	$	$
+
+Shapes: [2, 2, 2, 5]
+	Smallest rectangle found: 5 x 7 (area 35)
+	#	.	#	X	.	X	.
+	#	#	#	X	X	X	.
+	#	@	#	X	O	X	O
+	.	@	@	@	O	O	O
+	.	@	@	@	O	.	O
+
+Shapes: [2, 2, 2, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	#	#	.	X	X	X
+	.	#	O	O	O	X	.
+	#	#	#	O	X	X	X
+	@	.	O	O	O	$	$
+	@	@	@	.	.	$	$
+	@	@	@	.	$	$	$
+
+Shapes: [2, 2, 3]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	.	X
+	X	X	X
+	X	.	X
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [2, 2, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	#	.	#	X	.	X
+	#	#	#	X	X	X
+	#	.	#	X	.	X
+	O	O	O	@	@	@
+	O	.	O	@	.	@
+	O	.	O	@	.	@
+
+Shapes: [2, 2, 3, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	.	@	@	@	O	O	O	.
+	.	#	X	X	X	.	@	O	$	O	$
+	#	#	#	X	@	@	@	O	$	O	$
+	.	.	X	X	X	.	.	.	$	$	$
+
+Shapes: [2, 2, 3, 3, 4]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	O	O	O	.
+	#	#	#	O	@	O	@
+	#	.	#	O	@	O	@
+	X	.	X	$	@	@	@
+	X	X	X	$	$	.	.
+	X	.	X	$	$	$	.
+
+Shapes: [2, 2, 3, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	O	O	O	.
+	#	#	#	O	@	O	@
+	#	.	#	O	@	O	@
+	X	.	X	$	@	@	@
+	X	X	X	$	$	$	.
+	X	.	X	$	$	$	.
+
+Shapes: [2, 2, 3, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	#	.	#	X	.	X	.
+	#	#	#	X	X	X	.
+	#	@	#	X	O	X	O
+	.	@	@	.	O	.	O
+	.	@	@	@	O	O	O
+
+Shapes: [2, 2, 3, 4, 4]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	X	.	X	O	O	O	$	@	@	@
+	#	#	#	X	X	X	O	.	O	$	$	@	@
+	#	.	#	X	.	X	O	.	O	$	$	$	@
+
+Shapes: [2, 2, 3, 4, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	.	X	.
+	#	#	#	X	X	X	.
+	#	.	#	X	@	X	.
+	O	O	O	@	@	$	$
+	O	.	@	@	@	$	$
+	O	O	O	.	$	$	$
+
+Shapes: [2, 2, 3, 5]
+	Smallest rectangle found: 5 x 7 (area 35)
+	#	.	#	X	.	X	.
+	#	#	#	X	X	X	.
+	#	@	#	X	O	X	O
+	.	@	@	@	O	.	O
+	.	@	@	@	O	O	O
+
+Shapes: [2, 2, 3, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	#	#	.	O	O	O
+	.	#	X	X	X	.	O
+	#	#	#	X	O	O	O
+	@	.	X	X	X	$	$
+	@	@	@	.	.	$	$
+	@	@	@	.	$	$	$
+
+Shapes: [2, 2, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	.	X
+	X	X	X
+	X	.	X
+	O	O	O
+	.	O	O
+	.	.	O
+
+Shapes: [2, 2, 4, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	#	.	#	X	.	X	@	O	O	O
+	#	#	#	X	X	X	@	@	O	O
+	#	.	#	X	.	X	@	@	@	O
+
+Shapes: [2, 2, 4, 4, 4]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	X	.	X	O	O	O	$	@	@	@
+	#	#	#	X	X	X	.	O	O	$	$	@	@
+	#	.	#	X	.	X	.	.	O	$	$	$	@
+
+Shapes: [2, 2, 4, 4, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	X	.	X	@	O	O	O	$	.	.
+	#	#	#	X	X	X	@	@	O	O	$	$	$
+	#	.	#	X	.	X	@	@	@	O	$	$	$
+
+Shapes: [2, 2, 4, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	.	X
+	X	X	X
+	X	.	X
+	O	O	O
+	.	O	O
+	@	.	O
+	@	@	@
+	@	@	@
+
+Shapes: [2, 2, 4, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	.	X	.
+	#	#	#	X	X	X	.
+	#	.	#	X	O	X	.
+	@	@	@	O	O	$	$
+	@	@	O	O	O	$	$
+	@	@	.	.	$	$	$
+
+Shapes: [2, 2, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	.	X
+	X	X	X
+	X	.	X
+	O	.	.
+	O	O	O
+	O	O	O
+
+Shapes: [2, 2, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	.	X
+	X	X	X
+	X	.	X
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [2, 2, 5, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	.	X	.
+	#	#	#	X	X	X	.
+	#	.	#	X	@	X	.
+	$	$	@	@	@	O	O
+	$	$	@	@	@	O	O
+	$	$	$	.	O	O	O
+
+Shapes: [2, 3]
+	Smallest rectangle found: 3 x 6 (area 18)
+	#	.	#	X	X	X
+	#	#	#	X	.	X
+	#	.	#	X	.	X
+
+Shapes: [2, 3, 3]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	X	.	X
+	X	.	X
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [2, 3, 3, 3]
+	Smallest rectangle found: 6 x 6 (area 36)
+	#	.	#	X	X	X
+	#	#	#	X	.	X
+	#	.	#	X	.	X
+	O	O	O	@	@	@
+	O	.	O	@	.	@
+	O	.	O	@	.	@
+
+Shapes: [2, 3, 3, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	.	#	X	X	X	.	O	O	O	.
+	#	#	#	X	@	X	@	O	$	O	$
+	#	.	#	X	@	X	@	O	$	O	$
+	.	.	.	.	@	@	@	.	$	$	$
+
+Shapes: [2, 3, 3, 3, 4]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	X	X	.
+	#	#	#	X	@	X	@
+	#	.	#	X	@	X	@
+	O	O	O	$	@	@	@
+	O	.	O	$	$	.	.
+	O	.	O	$	$	$	.
+
+Shapes: [2, 3, 3, 3, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	X	X	.
+	#	#	#	X	@	X	@
+	#	.	#	X	@	X	@
+	O	O	O	$	@	@	@
+	O	.	O	$	$	$	.
+	O	.	O	$	$	$	.
+
+Shapes: [2, 3, 3, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	#	.	#	X	X	X	.
+	#	#	#	X	O	X	O
+	#	@	#	X	O	X	O
+	.	@	@	.	O	O	O
+	.	@	@	@	.	.	.
+
+Shapes: [2, 3, 3, 4, 4]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	X	X	X	O	O	O	$	@	@	@
+	#	#	#	X	.	X	O	.	O	$	$	@	@
+	#	.	#	X	.	X	O	.	O	$	$	$	@
+
+Shapes: [2, 3, 3, 4, 5]
+	Smallest rectangle found: 5 x 8 (area 40)
+	#	.	#	@	@	@	.	.
+	#	#	#	@	@	X	X	X
+	#	$	#	@	O	X	O	X
+	.	$	$	$	O	X	O	X
+	.	$	$	$	O	O	O	.
+
+Shapes: [2, 3, 3, 5]
+	Smallest rectangle found: 5 x 7 (area 35)
+	#	.	#	X	X	X	.
+	#	#	#	X	O	X	O
+	#	@	#	X	O	X	O
+	.	@	@	@	O	O	O
+	.	@	@	@	.	.	.
+
+Shapes: [2, 3, 3, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	X	X	.
+	#	#	#	X	O	X	O
+	#	.	#	X	O	X	O
+	@	.	.	$	O	O	O
+	@	@	@	$	$	$	.
+	@	@	@	$	$	$	.
+
+Shapes: [2, 3, 4]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	X	.	X
+	X	.	X
+	O	O	O
+	.	O	O
+	.	.	O
+
+Shapes: [2, 3, 4, 4]
+	Smallest rectangle found: 3 x 10 (area 30)
+	#	.	#	X	X	X	@	O	O	O
+	#	#	#	X	.	X	@	@	O	O
+	#	.	#	X	.	X	@	@	@	O
+
+Shapes: [2, 3, 4, 4, 4]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	X	X	X	O	O	O	$	@	@	@
+	#	#	#	X	.	X	.	O	O	$	$	@	@
+	#	.	#	X	.	X	.	.	O	$	$	$	@
+
+Shapes: [2, 3, 4, 4, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	X	X	X	@	O	O	O	$	.	.
+	#	#	#	X	.	X	@	@	O	O	$	$	$
+	#	.	#	X	.	X	@	@	@	O	$	$	$
+
+Shapes: [2, 3, 4, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	X	.	X
+	X	.	X
+	O	O	O
+	.	O	O
+	@	.	O
+	@	@	@
+	@	@	@
+
+Shapes: [2, 3, 4, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	X	X	.
+	#	#	#	X	.	X	.
+	#	.	#	X	O	X	.
+	@	@	@	O	O	$	$
+	@	@	O	O	O	$	$
+	@	@	.	.	$	$	$
+
+Shapes: [2, 3, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	X	.	X
+	X	.	X
+	O	.	.
+	O	O	O
+	O	O	O
+
+Shapes: [2, 3, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	X	.	X
+	X	.	X
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [2, 3, 5, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	.	#	X	X	X	.
+	#	#	#	X	.	X	.
+	#	.	#	X	@	X	.
+	$	$	@	@	@	O	O
+	$	$	@	@	@	O	O
+	$	$	$	.	O	O	O
+
+Shapes: [2, 4]
+	Smallest rectangle found: 3 x 6 (area 18)
+	#	.	#	X	X	X
+	#	#	#	.	X	X
+	#	.	#	.	.	X
+
+Shapes: [2, 4, 4]
+	Smallest rectangle found: 3 x 7 (area 21)
+	#	.	#	O	X	X	X
+	#	#	#	O	O	X	X
+	#	.	#	O	O	O	X
+
+Shapes: [2, 4, 4, 4]
+	Smallest rectangle found: 6 x 5 (area 30)
+	#	#	#	.	.
+	.	#	X	X	X
+	#	#	#	X	X
+	@	O	O	O	X
+	@	@	O	O	.
+	@	@	@	O	.
+
+Shapes: [2, 4, 4, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	@	X	X
+	@	@	X
+	@	@	@
+	O	O	O
+	$	O	O
+	$	$	O
+	$	$	$
+
+Shapes: [2, 4, 4, 4, 5]
+	Smallest rectangle found: 12 x 3 (area 36)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	@	X	X
+	@	@	X
+	@	@	@
+	O	O	O
+	.	O	O
+	$	.	O
+	$	$	$
+	$	$	$
+
+Shapes: [2, 4, 4, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	#	.	#	O	X	X	X	@	.	.
+	#	#	#	O	O	X	X	@	@	@
+	#	.	#	O	O	O	X	@	@	@
+
+Shapes: [2, 4, 4, 5, 5]
+	Smallest rectangle found: 12 x 3 (area 36)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	O	X	X
+	O	O	X
+	O	O	O
+	$	$	$
+	$	$	$
+	@	.	$
+	@	@	@
+	@	@	@
+
+Shapes: [2, 4, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	#	.	#	O	.	X	X	X
+	#	#	#	O	O	O	X	X
+	#	.	#	O	O	O	.	X
+
+Shapes: [2, 4, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	X	X
+	.	X	X
+	O	.	X
+	O	O	O
+	O	O	O
+	@	.	.
+	@	@	@
+	@	@	@
+
+Shapes: [2, 4, 5, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	O	.	X	X	X	@	.	$	$	$
+	#	#	#	O	O	O	X	X	@	@	@	$	$
+	#	.	#	O	O	O	.	X	@	@	@	$	$
+
+Shapes: [2, 5]
+	Smallest rectangle found: 3 x 6 (area 18)
+	#	.	#	X	.	.
+	#	#	#	X	X	X
+	#	.	#	X	X	X
+
+Shapes: [2, 5, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	#	.	#	X	.	O	O	O
+	#	#	#	X	X	X	O	O
+	#	.	#	X	X	X	O	O
+
+Shapes: [2, 5, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	.	#
+	#	#	#
+	#	.	#
+	X	.	.
+	X	X	X
+	X	X	X
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [2, 5, 5, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	.	#	X	.	@	@	@	O	.	$	$	$
+	#	#	#	X	X	X	@	@	O	O	O	$	$
+	#	.	#	X	X	X	@	@	O	O	O	$	$
+
+Shapes: [3, 3]
+	Smallest rectangle found: 4 x 4 (area 16)
+	#	#	#	.
+	#	X	#	X
+	#	X	#	X
+	.	X	X	X
+
+Shapes: [3, 3, 3]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	#	#
+	#	.	#
+	#	.	#
+	X	X	X
+	X	.	X
+	X	.	X
+	O	O	O
+	O	.	O
+	O	.	O
+
+Shapes: [3, 3, 3, 3]
+	Smallest rectangle found: 8 x 4 (area 32)
+	#	#	#	.
+	#	O	#	O
+	#	O	#	O
+	.	O	O	O
+	X	X	X	.
+	X	@	X	@
+	X	@	X	@
+	.	@	@	@
+
+Shapes: [3, 3, 3, 3, 3]
+	Smallest rectangle found: 4 x 11 (area 44)
+	#	#	#	X	X	X	.	O	O	O	.
+	#	.	#	X	@	X	@	O	$	O	$
+	#	.	#	X	@	X	@	O	$	O	$
+	.	.	.	.	@	@	@	.	$	$	$
+
+Shapes: [3, 3, 3, 3, 4]
+	Smallest rectangle found: 4 x 10 (area 40)
+	#	#	#	.	X	X	X	$	$	$
+	#	O	#	O	X	@	X	@	$	$
+	#	O	#	O	X	@	X	@	.	$
+	.	O	O	O	.	@	@	@	.	.
+
+Shapes: [3, 3, 3, 3, 5]
+	Smallest rectangle found: 4 x 10 (area 40)
+	#	#	#	.	X	X	X	$	$	$
+	#	O	#	O	X	@	X	@	$	$
+	#	O	#	O	X	@	X	@	$	$
+	.	O	O	O	.	@	@	@	.	.
+
+Shapes: [3, 3, 3, 4]
+	Smallest rectangle found: 5 x 7 (area 35)
+	#	#	#	X	X	X	.
+	#	.	#	X	O	X	O
+	#	@	#	X	O	X	O
+	.	@	@	.	O	O	O
+	.	@	@	@	.	.	.
+
+Shapes: [3, 3, 3, 4, 4]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	#	#	X	X	X	O	O	O	$	@	@	@
+	#	.	#	X	.	X	O	.	O	$	$	@	@
+	#	.	#	X	.	X	O	.	O	$	$	$	@
+
+Shapes: [3, 3, 3, 4, 5]
+	Smallest rectangle found: 5 x 8 (area 40)
+	#	#	#	@	@	@	.	.
+	#	.	#	@	@	X	X	X
+	#	$	#	@	O	X	O	X
+	.	$	$	$	O	X	O	X
+	.	$	$	$	O	O	O	.
+
+Shapes: [3, 3, 3, 5]
+	Smallest rectangle found: 5 x 7 (area 35)
+	#	#	#	X	X	X	.
+	#	.	#	X	O	X	O
+	#	@	#	X	O	X	O
+	.	@	@	@	O	O	O
+	.	@	@	@	.	.	.
+
+Shapes: [3, 3, 3, 5, 5]
+	Smallest rectangle found: 6 x 7 (area 42)
+	#	#	#	X	X	X	.
+	#	.	#	X	O	X	O
+	#	.	#	X	O	X	O
+	@	.	.	$	O	O	O
+	@	@	@	$	$	$	.
+	@	@	@	$	$	$	.
+
+Shapes: [3, 3, 4]
+	Smallest rectangle found: 4 x 6 (area 24)
+	#	#	#	O	O	O
+	#	X	#	X	O	O
+	#	X	#	X	.	O
+	.	X	X	X	.	.
+
+Shapes: [3, 3, 4, 4]
+	Smallest rectangle found: 7 x 4 (area 28)
+	#	#	#	.
+	#	X	#	X
+	#	X	#	X
+	.	X	X	X
+	@	O	O	O
+	@	@	O	O
+	@	@	@	O
+
+Shapes: [3, 3, 4, 4, 4]
+	Smallest rectangle found: 6 x 6 (area 36)
+	#	#	#	O	O	O
+	#	X	#	X	O	O
+	#	X	#	X	.	O
+	$	X	X	X	.	@
+	$	$	.	.	@	@
+	$	$	$	@	@	@
+
+Shapes: [3, 3, 4, 4, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	#	#	#	O	O	O
+	#	X	#	X	O	O
+	#	X	#	X	.	O
+	$	X	X	X	.	@
+	$	$	$	.	@	@
+	$	$	$	@	@	@
+
+Shapes: [3, 3, 4, 5]
+	Smallest rectangle found: 8 x 4 (area 32)
+	#	#	#	.
+	#	X	#	X
+	#	X	#	X
+	.	X	X	X
+	.	O	O	O
+	@	.	O	O
+	@	@	@	O
+	@	@	@	.
+
+Shapes: [3, 3, 4, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	#	#	#	O	O	O
+	#	X	#	X	O	O
+	#	X	#	X	.	O
+	@	X	X	X	$	$
+	@	@	@	.	$	$
+	@	@	@	$	$	$
+
+Shapes: [3, 3, 5]
+	Smallest rectangle found: 4 x 6 (area 24)
+	#	#	#	O	O	O
+	#	X	#	X	O	O
+	#	X	#	X	O	O
+	.	X	X	X	.	.
+
+Shapes: [3, 3, 5, 5]
+	Smallest rectangle found: 8 x 4 (area 32)
+	#	#	#	.
+	#	X	#	X
+	#	X	#	X
+	O	X	X	X
+	O	O	O	.
+	O	O	O	@
+	.	@	@	@
+	.	@	@	@
+
+Shapes: [3, 3, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	#	#	#	$	$	$
+	#	X	#	X	$	$
+	#	X	#	X	$	$
+	O	X	X	X	@	@
+	O	O	O	.	@	@
+	O	O	O	@	@	@
+
+Shapes: [3, 4]
+	Smallest rectangle found: 3 x 6 (area 18)
+	#	#	#	X	X	X
+	#	.	#	.	X	X
+	#	.	#	.	.	X
+
+Shapes: [3, 4, 4]
+	Smallest rectangle found: 3 x 7 (area 21)
+	#	#	#	O	X	X	X
+	#	.	#	O	O	X	X
+	#	.	#	O	O	O	X
+
+Shapes: [3, 4, 4, 4]
+	Smallest rectangle found: 6 x 5 (area 30)
+	.	.	#	#	#
+	@	@	@	.	#
+	@	@	#	#	#
+	@	O	X	X	X
+	.	O	O	X	X
+	.	O	O	O	X
+
+Shapes: [3, 4, 4, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	#	#
+	#	.	#
+	#	.	#
+	X	X	X
+	@	X	X
+	@	@	X
+	@	@	@
+	O	O	O
+	$	O	O
+	$	$	O
+	$	$	$
+
+Shapes: [3, 4, 4, 4, 5]
+	Smallest rectangle found: 12 x 3 (area 36)
+	#	#	#
+	#	.	#
+	#	.	#
+	X	X	X
+	@	X	X
+	@	@	X
+	@	@	@
+	O	O	O
+	.	O	O
+	$	.	O
+	$	$	$
+	$	$	$
+
+Shapes: [3, 4, 4, 5]
+	Smallest rectangle found: 3 x 10 (area 30)
+	#	#	#	O	X	X	X	@	.	.
+	#	.	#	O	O	X	X	@	@	@
+	#	.	#	O	O	O	X	@	@	@
+
+Shapes: [3, 4, 4, 5, 5]
+	Smallest rectangle found: 12 x 3 (area 36)
+	#	#	#
+	#	.	#
+	#	.	#
+	X	X	X
+	O	X	X
+	O	O	X
+	O	O	O
+	$	$	$
+	$	$	$
+	@	.	$
+	@	@	@
+	@	@	@
+
+Shapes: [3, 4, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	#	#	#	O	.	X	X	X
+	#	.	#	O	O	O	X	X
+	#	.	#	O	O	O	.	X
+
+Shapes: [3, 4, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	#	#
+	#	.	#
+	#	.	#
+	X	X	X
+	.	X	X
+	O	.	X
+	O	O	O
+	O	O	O
+	@	.	.
+	@	@	@
+	@	@	@
+
+Shapes: [3, 4, 5, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	#	#	O	.	X	X	X	@	.	$	$	$
+	#	.	#	O	O	O	X	X	@	@	@	$	$
+	#	.	#	O	O	O	.	X	@	@	@	$	$
+
+Shapes: [3, 5]
+	Smallest rectangle found: 3 x 6 (area 18)
+	#	#	#	X	.	.
+	#	.	#	X	X	X
+	#	.	#	X	X	X
+
+Shapes: [3, 5, 5]
+	Smallest rectangle found: 3 x 8 (area 24)
+	#	#	#	X	.	O	O	O
+	#	.	#	X	X	X	O	O
+	#	.	#	X	X	X	O	O
+
+Shapes: [3, 5, 5, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	#	#
+	#	.	#
+	#	.	#
+	X	.	.
+	X	X	X
+	X	X	X
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [3, 5, 5, 5, 5]
+	Smallest rectangle found: 3 x 13 (area 39)
+	#	#	#	X	.	@	@	@	O	.	$	$	$
+	#	.	#	X	X	X	@	@	O	O	O	$	$
+	#	.	#	X	X	X	@	@	O	O	O	$	$
+
+Shapes: [4, 4]
+	Smallest rectangle found: 3 x 4 (area 12)
+	X	#	#	#
+	X	X	#	#
+	X	X	X	#
+
+Shapes: [4, 4, 4]
+	Smallest rectangle found: 3 x 7 (area 21)
+	#	#	#	O	X	X	X
+	.	#	#	O	O	X	X
+	.	.	#	O	O	O	X
+
+Shapes: [4, 4, 4, 4]
+	Smallest rectangle found: 4 x 6 (area 24)
+	#	#	#	X	X	X
+	O	#	#	@	X	X
+	O	O	#	@	@	X
+	O	O	O	@	@	@
+
+Shapes: [4, 4, 4, 4, 4]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	#	#
+	.	#	#
+	.	.	#
+	X	X	X
+	@	X	X
+	@	@	X
+	@	@	@
+	O	O	O
+	$	O	O
+	$	$	O
+	$	$	$
+
+Shapes: [4, 4, 4, 4, 5]
+	Smallest rectangle found: 11 x 3 (area 33)
+	#	#	#
+	O	#	#
+	O	O	#
+	O	O	O
+	X	X	X
+	@	X	X
+	@	@	X
+	@	@	@
+	$	.	.
+	$	$	$
+	$	$	$
+
+Shapes: [4, 4, 4, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	#	#
+	O	#	#
+	O	O	#
+	O	O	O
+	X	X	X
+	.	X	X
+	@	.	X
+	@	@	@
+	@	@	@
+
+Shapes: [4, 4, 4, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	$	$	$	#	#	#
+	$	$	$	.	#	#
+	$	X	X	X	.	#
+	@	.	X	X	.	O
+	@	@	@	X	O	O
+	@	@	@	O	O	O
+
+Shapes: [4, 4, 5]
+	Smallest rectangle found: 3 x 7 (area 21)
+	X	#	#	#	O	.	.
+	X	X	#	#	O	O	O
+	X	X	X	#	O	O	O
+
+Shapes: [4, 4, 5, 5]
+	Smallest rectangle found: 9 x 3 (area 27)
+	#	#	#
+	X	#	#
+	X	X	#
+	X	X	X
+	@	@	@
+	@	@	@
+	O	.	@
+	O	O	O
+	O	O	O
+
+Shapes: [4, 4, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	$	$	$	#	#	#
+	$	$	$	.	#	#
+	$	X	X	X	.	#
+	O	.	X	X	@	@
+	O	O	O	X	@	@
+	O	O	O	@	@	@
+
+Shapes: [4, 5]
+	Smallest rectangle found: 5 x 3 (area 15)
+	#	#	#
+	.	#	#
+	X	.	#
+	X	X	X
+	X	X	X
+
+Shapes: [4, 5, 5]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	#	#	#	.	.
+	X	.	#	#	O	O
+	X	X	X	#	O	O
+	X	X	X	O	O	O
+
+Shapes: [4, 5, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	X	.	#	#	#
+	X	X	X	#	#
+	X	X	X	.	#
+	O	.	@	@	@
+	O	O	O	@	@
+	O	O	O	@	@
+
+Shapes: [4, 5, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	@	@	@	#	#	#
+	@	@	X	.	#	#
+	@	@	X	X	X	#
+	O	.	X	X	X	$
+	O	O	O	$	$	$
+	O	O	O	$	$	$
+
+Shapes: [5, 5]
+	Smallest rectangle found: 5 x 3 (area 15)
+	X	X	X
+	X	X	X
+	#	.	X
+	#	#	#
+	#	#	#
+
+Shapes: [5, 5, 5]
+	Smallest rectangle found: 4 x 6 (area 24)
+	.	X	X	X	.	.
+	#	X	X	X	O	O
+	#	#	#	X	O	O
+	#	#	#	O	O	O
+
+Shapes: [5, 5, 5, 5]
+	Smallest rectangle found: 6 x 5 (area 30)
+	#	.	O	O	O
+	#	#	#	O	O
+	#	#	#	O	O
+	X	.	@	@	@
+	X	X	X	@	@
+	X	X	X	@	@
+
+Shapes: [5, 5, 5, 5, 5]
+	Smallest rectangle found: 6 x 6 (area 36)
+	O	O	O	@	@	@
+	O	O	#	@	@	@
+	O	O	#	#	#	@
+	X	.	#	#	#	$
+	X	X	X	$	$	$
+	X	X	X	$	$	$
